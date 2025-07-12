@@ -11,7 +11,7 @@ However, if you're using a trusted app like Energy Media Player, you can safely 
 ## ✅ What Happens When You Enable It?
 
 Once you allow loopback access:
-- Energy Media Player will be able to stream from local servers (like Plex, Jellyfin, Stremio or custom web apps running on your PC).
+- Energy Media Player will be able to stream from local servers (like Plex, Jellyfin, [Stremio](https://github.com/IDimitrovDev/Energy-Media-Player/blob/master/Add%20as%20external%20media%20player%20in%20Stremio.md) or custom web apps running on your PC).
 - This setting stays enabled until you manually turn it off.
 
 ---
