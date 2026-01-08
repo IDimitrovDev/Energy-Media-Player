@@ -1,0 +1,1400 @@
+﻿English,Simplified Chinese,Bulgarian
+Set end point for A–B repeat,选择 A–B 循环的结束位置,Изберете крайна позиция за повторение
+Set start point for A–B repeat,选择 A–B 循环的起始位置,Изберете начална позиция за повторение
+(Apache 2.0 License with source modifications),（带源代码修改的 Apache 2.0 许可证）,(Apache 2.0 Лиценз със модификации на източника)
+Changelog,更新日志,Списък на промените
+Contact us,联系我们,Свържете се с нас
+Copyright 2020-2026 DimitrovDev. All rights reserved.,版权所有 © 2020–2026 DimitrovDev。保留所有权利。,Авторски права 2020-2026 DimitrovDev. Всички права запазени.
+Current version {0},当前版本 {0},Текуща версия {0}
+Dropbox license terms:,Dropbox 许可条款,Лицензни условия на Dropbox
+Dropbox V2 API:,Dropbox V2 API:,Dropbox V2 API:
+FFmpeg 4.3.100:,FFmpeg 4.3.100:,FFmpeg 4.3.100:
+FFmpegInteropX:,FFmpegInteropX,FFmpegInteropX:
+FFmpegInteropX license terms,FFmpegInteropX 许可条款,Лицензни условия на FFmpegInteropX
+Github page,Github 页面,Github страница
+Initial release,初始版本,Първа версия
+(LGPL3.0),(LGPL3.0),(LGPL3.0)
+Libraries,使用的库,Библиотеки
+(MIT),(MIT),(MIT)
+(MPL-1.1),(MPL-1.1),(MPL-1.1)
+NuGet page,NuGet 页面,NuGet страница
+Privacy policy,隐私政策,Политика за поверителност
+Project URL,项目网址,Адрес на проекта
+Reddit Community,Reddit 社区,Reddit общност
+Subtitles service powered by www.OpenSubtitles.org,字幕服务由 www.OpenSubtitles.org 提供,"Услуга за субтитри, предоставена от www.OpenSubtitles.org"
+UTF.Unknown:,UTF.Unknown,UTF.Unknown:
+UTF-Unknown license terms,UTF-Unknown 许可条款,Лицензни условия на UTF-Unknown
+Unidecode.NET:,Unidecode.NET:,Unidecode.NET:
+Unidecode.NET license terms,Unidecode.NET 许可条款,Лицензни условия на Unidecode.NET
+Version 1.0.0.1,Version 1.0.0.1,Версия 1.0.0.1
+YoutubeExplode:,YoutubeExplode,YoutubeExplode:
+YoutubeExplode license terms,YoutubeExplode 许可条款,Лицензни условия на YoutubeExplode
+"This alias works from the command prompt, scripts, Run dialog, and automation tools. You can include optional arguments to launch a file immediately and customize playback.",此别名可从命令提示符、脚本、运行对话框和自动化工具中使用。您可以包含可选参数以立即启动文件并自定义播放。,"Този псевдоним работи от командния ред, скриптове, диалог Run и инструменти за автоматизация. Можете да включите допълнителни аргументи, за да стартирате файл незабавно и да персонализирате възпроизвеждането."
+Available Targets,可用目标,Налични аргументи
+Custom title to display. If not set or empty,要显示的自定义标题。如果未设置或为空，播放器会自动选择名称。,"Персонализирано заглавие за показване. Ако не е зададено или е празно, плейърът автоматично избира име."
+Example Commands,示例命令,Примерни команди
+Example URIs,示例URI,Примерни URI адреси
+Execution alias is available also via ,执行别名也可通过 ,Псевдонимът за изпълнение е достъпен и чрез 
+Opens the player in file explorer mode. If the player is already running this command is ignored.,在文件资源管理器模式下打开播放器。如果播放器已在运行，则忽略此命令。,"Отваря плейъра в режим на файлов мениджър. Ако плейърът вече работи, тази команда се игнорира."
+Full path to a media source (local file or network stream).,媒体源的完整路径（本地文件或网络流）。,Пълен път до медиен източник (локален файл или мрежов поток).
+Launch and Integration,启动和集成,Стартиране и интеграция
+1. Launching {0} via Command Line,1. 通过命令行启动{0},1. Стартиране на {0} чрез командния ред
+Start (if not running) the player and plays the media with optional parameters. See below.,启动（如果未运行）播放器并使用可选参数播放媒体。见下文。,Стартира (ако не работи) плейъра и възпроизвежда медията с допълнителни параметри. Вижте по-долу.
+Media Launch Arguments,媒体启动参数,Аргументи за стартиране на медия
+Open player in file explorer mode:,在文件资源管理器模式下打开播放器：,Отваряне на плейъра в режим на файлов мениджър:
+Open player in settings mode:,在设置模式下打开播放器：,Отваряне на плейъра в режим на настройки:
+Open a video file and auto-play:,打开视频文件并自动播放：,Отваряне на видео файл и автоматично възпроизвеждане:
+ or , 或 , или 
+Path or URL to the media file to load.,要加载的媒体文件的路径或URL。,Път или мрежов адрес към медийния файл за зареждане.
+.,。,.
+Play a network stream from 120 second with custom title,从120秒开始播放带有自定义标题、字幕的网络流：,"Възпроизвеждане на мрежов поток от 120-та секунда с персонализирано заглавие, субтитри и начало:"
+This can be used in browser links,这可以在浏览器链接、桌面快捷方式或与其他应用程序的集成中使用。它允许您启动播放器并可选择导航到特定部分或加载媒体内容。,"Това може да се използва в браузър връзки, десктоп преки пътища или интеграция с други приложения. Позволява ви да стартирате плейъра и по избор да навигирате до конкретна секция или да заредите медийно съдържание."
+EnergyMedia supports a file protocol called:,EnergyMedia支持称为以下的文件协议：,"EnergyMedia поддържа файлов протокол, наречен:"
+2. Launching EnergyMedia via Protocol URI,2. 通过协议URI启动EnergyMedia,2. Стартиране на EnergyMedia чрез Protocol URI
+Opens the player in settings mode. If the player is already running this command is ignored.,在设置模式下打开播放器。如果播放器已在运行，则忽略此命令。,"Отваря плейъра в режим на настройки. Ако плейърът вече работи, тази команда се игнорира."
+Time in seconds from which the media will start playing. If a start time is provided,媒体开始播放的时间（以秒为单位）。如果提供了开始时间，它将覆盖该媒体的任何已保存播放位置。,"Време в секунди, от което медията ще започне да се възпроизвежда. Ако е предоставено начално време, то ще замени всяка запазена позиция на възпроизвеждане за тази медия."
+"Time in seconds from which the media will start playing. If a start time is provided, it will override any saved playback position for that media.",媒体将从此时间（以秒为单位）开始播放。如果提供了开始时间，它将覆盖该媒体的任何已保存播放位置。,"Време в секунди, от което медията ще започне да се възпроизвежда. Ако е предоставено начално време, то ще замени запазената позиция на възпроизвеждане за тази медия."
+Stream a video with subtitles and custom start time:,使用字幕和自定义开始时间流式传输视频：,Стриймване на видео със субтитри и персонализирано начално време:
+Path to a subtitle file (e.g.,字幕文件的路径（例如 `.srt`），将在播放开始时自动加载和选择。,"Път до файл със субтитри (напр. `.srt`), който ще бъде автоматично зареден и избран при започване на възпроизвеждането."
+"Path to a subtitle file (e.g., `.srt`), which will be automatically loaded and selected when playback begins.",字幕文件的路径（例如 `.srt`），播放开始时将自动加载并选择该文件。,"Път до файл със субтитри (напр. `.srt`), който ще бъде автоматично зареден и избран при започване на възпроизвеждането."
+Supported Arguments,支持的参数,Поддържани аргументи
+Syntax Format,语法格式,Формат на синтаксиса
+Argument,参数,Аргумент
+Description,描述,Описание
+Launch type,启动类型,Тип стартиране
+Parameter,参数,Параметър
+Required,必需,Задължителен
+Use ampersand(&) to separate parameters.,使用&符号分隔参数。,Използвайте амперсанд (&) за разделяне на параметрите.
+You can start {0} using the alias:,您可以使用别名启动{0}：,Можете да стартирате {0} използвайки псевдонима:
+"Open clipboard failed! Please, try again.",无法打开剪贴板！请重试。,"Неуспешно отваряне на клипборда! Моля, опитайте отново."
+"Windows HDR can be automatically enabled while playing HDR media with the HDR Controller app and selected option HDR Controller integration in ""Settings->User interface""! Would you like to install HDR Controller now?","使用 HDR Controller 应用程序和""设置""->""用户界面""中选择的 HDR Controller 集成选项播放 HDR 媒体时，可以自动启用 Windows HDR！您想现在安装 HDR Controller 吗？","Windows HDR може да се активира автоматично при възпроизвеждане на HDR медия с приложението HDR Controller и избраната опция HDR Controller интеграция в ""Настройки->Потребителски интерфейс""! Искате ли да инсталирате HDR Controller сега?"
+Last modified date: %S,最后修改日期：%S,Последна промяна: %S
+Size: %S,大小：%S,Размер: %S
+Type: %S,类型：%S,Тип: %S
+Alternative boundary mode,替代边界模式,Алтернативен граничен режим
+Audio channels coupling,音频声道耦合,Свързване на аудио канали
+Audio delay (miliseconds) ,音频延迟(毫秒),Забавяне на аудио (милисекунди) 
+Broadcast-standard loudness normalization,广播标准响度标准化,Нормализация на силата на звука по стандарт за излъчване
+Compress,压缩,Компресирай
+DC bias correction,直流偏置校正,Корекция на DC отклонение
+Dialogue enhance,对话增强,Подобряване на диалога
+Dynamic loudness normalization,动态响度标准化,Динамична нормализация на силата на звука
+Enable audio effects,启用音频效果,Активирай аудио ефекти
+Frame length,帧长度,Дължина на кадърa
+Gaussian filter window size,高斯滤波器窗口大小,Размер на прозореца на Гаусовия филтър
+Integrated loudness,综合响度,Интегрирана сила на звука
+Loudness range target,响度范围目标,Целеви диапазон на силата на звука
+Maximim true peak,最大真实峰值,Максимален истински пик
+Maximum gain factor,最大增益因子,Максимален фактор на усилване
+Noise reduction,降噪,Намаляване на шума
+Preset ,预设,Предустановка 
+Some settings are not available when using audio passthrough,使用音频直通时某些设置不可用,Някои настройки не са достъпни при използване на аудио passthrough
+Speech normalization,语音标准化,Нормализация на речта
+Target peak,目标峰值,Целеви пик
+Target root mean square(RMS),目标均方根(RMS),Целева средна квадратична стойност (RMS)
+ %,%, %
+Volume boost,音量增强,Усилване на звука
+ ms,毫秒, мс
+Add option for (QHD)1440p Youtube streams.,添加(QHD)1440p YouTube流选项。,Add option for (QHD)1440p Youtube streams.
+Added A-B repeat functionality. Can be enabled from 'Settings->UI settings->Show repeat controls(A-B)' which add to the media player UI the A-B controls and repeat button.,添加了 A-B 重复功能。可以从设置->界面设置->显示重复控件（A-B）启用，这会将 A-B 控件和重复按钮添加到媒体播放器界面。,Added A-B repeat functionality. Can be enabled from 'Settings->UI settings->Show repeat controls(A-B)' which add to the media player UI the A-B controls and repeat button.
+Added audio and codec names to the audio stream selector.,在音频流选择器中添加了音频和编解码器名称。,Added audio and codec names to the audio stream selector.
+Added background color and transparency configurations. Added named colors choosers.,添加了背景颜色和透明度配置。添加了命名颜色选择器。,Added background color and transparency configurations. Added named colors choosers.
+Added chapters support (configurable from Settings->User Interface),添加了章节支持（可从设置->用户界面配置）,Добавена поддръжка на глави (конфигурируема от Настройки->Потребителски интерфейс)
+Added codec information context menu option.,添加了编解码器信息上下文菜单选项。,Добавена опция в контекстното меню за информация за кодек.
+Added configuration for opening files through 'Open with' in new window(default) or in the last opened (configurable from Settings->User Interface),"添加了通过""打开方式""在新窗口（默认）或最后打开的窗口中打开文件的配置。","Добавена конфигурация за отваряне на файлове чрез ""Отвори с"" в нов прозорец (по подразбиране) или в последния отворен прозорец."
+"Added context menu option for giving rights to a NTFS removable drive, because security restrictions doesn't allow non media files to be accessed on removable drives with different than NTFS file systems.",添加了上下文菜单选项，用于授予NTFS可移动驱动器权限，因为安全限制。,"Added context menu option for giving rights to a NTFS removable drive, because security restrictions doesn't allow non media files to be accessed on removable drives with different than NTFS file systems."
+Added explanation messaga for playback failure when the audio device is exclusively used by another app and an option to play video only. ,当音频设备被另一个程序独占使用时，添加了播放失败的说明消息。,Added explanation messaga for playback failure when the audio device is exclusively used by another app and an option to play video only. 
+Added explanation message with video name on Youtube video loading failure.,添加了 YouTube 视频加载失败时带有视频名称的说明消息。,Added explanation message with video name on Youtube video loading failure.
+Added export playlist option in the playlist settings menu.,在播放列表设置菜单中添加了导出播放列表选项。,Added export playlist option in the playlist settings menu.
+Added integration with HDR Controller(Settings->User interface),添加了与HDR Controller的集成（设置->用户界面）。,Added integration with HDR Controller(Settings->User interface)
+Added live stream Youtube support.,添加了YouTube直播流支持。,Added live stream Youtube support.
+Added menu option for showing/hiding playlist from the main context menus.,在主上下文菜单中添加了显示/隐藏播放列表的菜单选项。,Added menu option for showing/hiding playlist from the main context menus.
+"Added Minimal UI Mode for Playback. Introduced an optional minimal interface for a cleaner, touch-friendly experience during media playback. Disabled by default; can be enabled via Settings -> UI Settings or UI Customizations in the playback context menu. Button text color can be changed from the themes in UI settings. Adds a dedicated button and M keyboard shortcut to toggle minimal UI mode on or off.",添加了播放的最小界面模式。引入了可选的最小界面，在媒体播放期间提供更清洁、触摸友好的体验。默认禁用；可通过设置 -> 界面设置或播放上下文菜单中的界面自定义启用。可以从界面设置中的主题更改按钮文本颜色。添加专用按钮和 M 键盘快捷键以打开或关闭最小界面模式。,"Добавен минимален режим на потребителския интерфейс за възпроизвеждане. Въведен е опционален минимален интерфейс за по-чисто, удобно за докосване изживяване по време на възпроизвеждане на медия. Деактивиран по подразбиране; може да бъде активиран чрез Настройки -> Настройки на ПИ или Персонализации на ПИ в контекстното меню за възпроизвеждане. Цветът на текста на бутона може да бъде променен от темите в настройките на ПИ. Добавя специален бутон и клавишна комбинация M за превключване на минималния режим на ПИ."
+Added mouse hover select functionality in Picture-in-Picture mode(allows for clicking buttons by hovering over them to allow navigating picture-in-picture mode without active window switching),在画中画模式中添加了鼠标悬停选择功能（允许通过将鼠标悬停在按钮上来单击按钮）。,Добавена функционалност за избор с посочване с мишката в режим Картина в картина (позволява кликване на бутони чрез задържане на мишката върху тях).
+"Added new subtitle renderer which is enabled by default and fixes issues with subtitles settings not getting in effect if Windows subtitle profile is edited. Changes to subtitles through the subtitle settings window can be seen immediatelly instead on next frame.Old one can be re-enabled by using the \""Use system subtitle renderer\"".",添加了新的字幕渲染器，默认启用，修复了字幕设置不应用的问题。,"Добавен нов рендерър на субтитри, който е активиран по подразбиране и поправя проблеми с настройките на субтитрите, които не се прилагат."
+Added notifications for currently playing and file operations,添加了当前播放和文件操作的通知。,Added notifications for currently playing and file operations
+Added option for enabling/disabling caching to disk.,添加了启用/禁用缓存到磁盘的选项。,Добавена опция за активиране/деактивиране на кеширането на диск.
+Added option for enabling/disabling the promp for playlist generation when opening from unknown locations where folder needs permission for listing files. The prompt also now has direct buttons for disabling the option or adding media folder.,添加了从未知位置打开时启用/禁用播放列表生成提示的选项。,Добавена опция за активиране/деактивиране на подканата за генериране на плейлист при отваряне от неизвестно местоположение.
+Added option for reseting playback rate when opening new media(Settings->Video/Audio settings),添加了打开新媒体时重置播放速率的选项（设置->视频/音频设置）。,Added option for reseting playback rate when opening new media(Settings->Video/Audio settings)
+Added option for selecting the how much seconds to be buffered when prebuffering is enabled,添加了选项，用于选择启用预缓冲时要缓冲多少秒,Added option for selecting the how much seconds to be buffered when prebuffering is enabled
+Added option in UI settings to disable system layout scaling(200%).,在界面设置中添加了禁用系统布局缩放（200%）的选项。,Добавена опция в настройките на потребителския интерфейс за деактивиране на системното мащабиране на оформлението (200%).
+Added option to display movie covers when available as thumbnails instead of play position.,添加了在可用时将电影封面显示为缩略图而不是播放位置的选项。,"Добавена опция за показване на корици на филми, когато са налични, като миниатюри вместо позиция на възпроизвеждане."
+"Added option to show on-screen clock. Configurable in \""UI Settings\""",添加了显示屏幕时钟的选项。可在界面设置中配置。,"Added option to show on-screen clock. Configurable in \""UI Settings\"""
+Added option to the playlist add menu to add all videos from supplied Youtube playlist id or link to video in playlist.,在播放列表添加菜单中添加了选项，可以从提供的YouTube播放列表ID或链接添加所有视频。,Added option to the playlist add menu to add all videos from supplied Youtube playlist id or link to video in playlist.
+Added option to the subtitles menu for disabling/enabling correction of the vertical subtitles position. When enabled the subtitles position will be lower on the screen than normally.,在字幕菜单中添加了禁用/启用垂直字幕位置校正的选项。,Added option to the subtitles menu for disabling/enabling correction of the vertical subtitles position. When enabled the subtitles position will be lower on the screen than normally.
+Added playback of Youtube shorts urls.,添加了YouTube Shorts网址的播放。,Добавено възпроизвеждане на URL адреси на YouTube Shorts.
+"Added playlist control options(changing mode, start playback from beginning) in Pictire-in-Picture mode ",添加了播放列表控制选项（更改模式、从头开始播放、随机播放）。,"Added playlist control options(changing mode, start playback from beginning) in Pictire-in-Picture mode "
+Added playlist drag-drop reordering.,添加了播放列表拖放重新排序。,Добавено пренареждане на плейлист с плъзгане и пускане.
+Added prompt for playlist generation for files opened from 'Open with' from locations outside of known folders,"为从已知文件夹外的位置通过""打开方式""打开的文件添加了播放列表生成提示。","Добавена подкана за генериране на плейлист за файлове, отворени от ""Отвори с"" от местоположения извън известните папки."
+Added prompts for on-demand media streaming configuration if not already enabled while trying to play on-line only files.,在尝试播放按需OneDrive文件时，如果尚未启用，则添加按需媒体流配置提示。,Added prompts for on-demand media streaming configuration if not already enabled while trying to play on-line only files.
+Added 'Rewind to 0:00:00' button option in the main UI enabling rewinding to beginning of a file. Can be enabled from UI Settings->Show 'Rewind to 0:00:00' button,"在主界面中添加了""倒回到0:00:00""按钮选项，允许倒回到文件开头。可从设置->用户界面配置。","Добавена опция за бутон ""Превъртане до 0:00:00"" в основния потребителски интерфейс, позволяваща превъртане до началото на файл. Може да се конфигурира от Настройки->Потребителски интерфейс."
+Added scrolling text visualizations for now playlist and recent files when name is bigger than the visible area.,当名称大于视图大小时，为当前播放列表和最近文件添加了滚动文本可视化。,Added scrolling text visualizations for now playlist and recent files when name is bigger than the visible area.
+Added search in playlists functionality.,添加了在播放列表中搜索的功能。,Добавена функционалност за търсене в плейлисти.
+Added seek preview support for local and cloud media files.,添加了对本地和云媒体文件的搜索预览支持。,Added seek preview support for local and cloud media files.
+Added seeking by mouse scrolling on playback position slider.,在播放位置滑块上添加了鼠标滚动搜索功能。,Added seeking by mouse scrolling on playback position slider.
+Added 'Show Picture-in-Picture button' in UI customization menus.,"在界面自定义菜单中添加了""显示画中画按钮""。","Добавен бутон ""Показване на Картина в картина"" в менютата за персонализиране на потребителския интерфейс."
+Added smart subtitle support for cloud media files.,添加了对云媒体文件的智能字幕支持。,Added smart subtitle support for cloud media files.
+"Added sort by name, size and last modified date in the integrated local and cloud file explorers.",在集成的本地和云文件浏览器中添加了按名称、大小和最后修改日期排序。,"Added sort by name, size and last modified date in the integrated local and cloud file explorers."
+Added subtitles download from OpenSubtitles.org.,添加了从OpenSubtitles.org下载字幕的功能。,Added subtitles download from OpenSubtitles.org.
+Added support for changing playlists play mode through XBOX background media playback window.,通过XBOX后台媒体播放窗口添加了更改播放列表播放模式的支持。,Added support for changing playlists play mode through XBOX background media playback window.
+Added support for drag-dropping Youtube browser links,添加了对拖放YouTube浏览器链接的支持,Добавена поддръжка за плъзгане и пускане на YouTube браузърни връзки
+Added support for encrypting media files with AES-256 and playback from the encrypted source.,添加了使用AES-256加密媒体文件并从加密源播放的支持。,Added support for encrypting media files with AES-256 and playback from the encrypted source.
+Added support for OneDrive and Dropbox.,添加了对OneDrive和Dropbox的支持。,Added support for OneDrive and Dropbox.
+Added support for opening non media files on click or menu options Open and Open with.,添加了在点击或使用菜单选项时打开非媒体文件的支持（打开和打开方式）。,Added support for opening non media files on click or menu options Open and Open with.
+Added support for playback from .url files.,添加了从.url文件播放的支持。,Добавена поддръжка за възпроизвеждане от .url файлове.
+Added support for subtitle in Youtube video streams.,添加了对YouTube视频流字幕的支持。,Added support for subtitle in Youtube video streams.
+Added video effects settings.,添加了视频效果设置。,Added video effects settings.
+Added warning in General settings about possible slowness during youtube video playback (mostly age-restricted videos).,在常规设置中添加了关于YouTube视频播放期间可能变慢的警告（主要是年龄限制内容）。,Добавено предупреждение в Общите настройки за възможна бавност по време на възпроизвеждане на YouTube видео (главно възрастово ограничено съдържание).
+Added warning message for enabling audio passthrough also in XBOX settings when passthrough is selected in the player settings,添加了在 XBOX 设置中启用音频直通的警告消息。,Added warning message for enabling audio passthrough also in XBOX settings when passthrough is selected in the player settings
+Added automatic HLS streaming fallback for YouTube videos.,为 YouTube 视频添加了自动 HLS 流后备方案。,Добавен автоматичен резервен вариант за HLS стрийминг за YouTube видеа.
+Added button for opening the windows subtitle settings when using the system renderer.,添加了在使用系统渲染器时打开Windows字幕设置的按钮。,Добавя бутон за отваряне на настройките за субтитри на Windows при използване на системния рендерер.
+Added Dolby Vision tone mapping option in HDR mode - disabled by default.,在 HDR 模式下添加了 Dolby Vision 色调映射选项 - 默认禁用。,Добавена опция за Dolby Vision тонално картографиране в HDR режим - деактивирана по подразбиране.
+"Added fallback to Microsoft media foundation decoders when ffmpeg can't detect audio stream - e.g DTS:X profile 2, xHE-AAC.",添加了当 ffmpeg 无法检测音频流时对 Microsoft Media Foundation 解码器的后备方案 - 例如 DTS:X profile 2、xHE-AAC。,"Добавен резервен вариант към декодерите на Microsoft Media Foundation, когато ffmpeg не може да открие аудио поток - напр. DTS:X profile 2, xHE-AAC."
+Added fallback to playback with Media foundation when running inside virtual machines. ,添加了在虚拟机内运行时使用 Media Foundation 播放的后备方案。,Добавен резервен вариант за възпроизвеждане с Media Foundation при работа във виртуални машини.
+Added file manager text color to theming configuration.,在主题配置中添加了文件管理器文本颜色。,Adds file manager text color to theming configuration.
+"Added integration with Energy Media Player for XBOX which supports UHD HDR and Dolby Vision, but does not support background audio playback. Integration options are in Settings -> Video/Audio settings.",添加了与 Energy Media Player for XBOX 的集成，该播放器支持 UHD HDR 和 Dolby Vision，但不支持后台音频播放。集成选项位于设置 -> 视频/音频设置中。,"Добавена интеграция с Energy Media Player за XBOX, който поддържа UHD HDR и Dolby Vision, но не поддържа фоново аудио възпроизвеждане. Опциите за интеграция са в Настройки -> Настройки на видео/аудио."
+"Added lag recovery functionality options in \""Settings\"" -> \""General\"". Enabled by default",在设置->常规中添加了延迟恢复功能选项。默认启用,"Adds lag recovery functionality options in \""Settings\"" -> \""General\"". Enabled by default"
+"Added menu option in \""Audio\"" -> \""Audio effects\"" which allows setting global or for curent file audio delay, audio dialogue enhancement or noise reduction.",在音频->音频效果中添加了菜单选项，允许设置全局或当前文件的音频延迟、音频对话增强或降噪。,"Adds menu option in \""Audio\"" -> \""Audio effects\"" which allows setting global or for curent file audio delay, audio dialogue enhancement or noise reduction."
+Added option for matching color space range of the media file to the display for the D3D11 decoder.,为 D3D11 解码器添加了将媒体文件的色彩空间范围与显示器匹配的选项。,Добавена опция за съвпадение на цветовия диапазон на медийния файл с дисплея за D3D11 декодера.
+Added option for setting subtitle text color transparency.,添加了设置字幕文本颜色透明度的选项。,Добавена опция за задаване на прозрачност на цвета на текста на субтитрите.
+Added option to auto generate playlist when opening local media from unknown locations. Disabled by default,添加了从未知位置打开本地媒体时自动生成播放列表的选项。默认禁用,Adds option to auto generate playlist when opening local media from unknown locations. Disabled by default
+"Added option to match the display refresh rate to the media frame rate (enabled by default). If disabled allows manually setting preferred refresh rates for SDR, HDR and Dolby Vision when applicable.",添加了将显示器刷新率与媒体帧率匹配的选项（默认启用）。如果禁用，则允许在适用时为 SDR、HDR 和 Dolby Vision 手动设置首选刷新率。,"Добавена опция за съвпадение на честотата на опресняване на дисплея с честотата на кадрите на медията (активирана по подразбиране). Ако е деактивирана, позволява ръчно задаване на предпочитани честоти на опресняване за SDR, HDR и Dolby Vision, когато е приложимо."
+Added option to subtitles menu to prefer external subtitles for automatic subtitle selection.,在字幕菜单中添加了选项，用于自动字幕选择时优先选择外部字幕。,Adds option to subtitles menu to prefer external subtitles for automatic subtitle selection.
+Added Passthrough option to Audio context menu which allows fast switching audio passthrough on/off for current file.,在音频上下文菜单中添加了直通选项，允许快速切换当前文件的音频直通开/关。,Adds Passthrough option to Audio context menu which allows fast switching audio passthrough on/off for current file.
+Added player menu option for opening audio/subtitles selection popup window.,添加了播放器菜单选项以打开音频/字幕选择弹出窗口。,Добавена опция в менюто на плейъра за отваряне на изскачащ прозорец за избор на аудио/субтитри.
+Added preloading of next/previous line of items in the integrated file manager.,在集成文件管理器中添加了下一行/上一行项目的预加载。,Добавено предварително зареждане на следващата/предишната линия от елементи в интегрирания файлов мениджър.
+Added 'Reset application' button in General settings to allow reseting all configurations to default. Requires application restart.,在常规设置中添加了重置应用程序按钮，允许将所有配置重置为默认值。需要重新启动应用程序。,Adds 'Reset application' button in General settings to allow reseting all configurations to default. Requires application restart.
+"Added reveal focus mode. Enabled by default, can be disabled from Settings -> UI settings -> Use reveal focus mode.",添加了显示焦点模式。默认启用，可从设置 -> 界面设置 -> 使用显示焦点模式禁用。,"Добавен режим на фокус Reveal. Активиран по подразбиране, може да бъде деактивиран от Настройки -> Настройки на ПИ -> Използване на режим на фокус Reveal."
+Added SDR tone mapping option in HDR mode - disabled by default.,在 HDR 模式下添加了 SDR 色调映射选项 - 默认禁用。,Добавена опция за SDR тонално картографиране в HDR режим - деактивирана по подразбиране.
+Added separate Dolby TrueHD passthrough option previously controlled by the Dolby Digital passthrough option.,添加了单独的 Dolby TrueHD 直通选项，以前由 Dolby Digital 直通选项控制。,Adds separate Dolby TrueHD passthrough option previously controlled by the Dolby Digital passthrough option.
+"Added separate \""Show image files\"" option for the player file managers(local, OneDrive and DropBox) to allow showing image files outside using the \""Show all files\"" option( disabled by default).","为播放器文件管理器（本地、OneDrive 和 DropBox）添加了单独的""显示图像文件""选项，允许在不使用""显示所有文件""选项的情况下显示图像文件（默认禁用）。","Adds separate \""Show image files\"" option for the player file managers(local, OneDrive and DropBox) to allow showing image files outside using the \""Show all files\"" option( disabled by default)."
+Added .sup to the subtitle recognizable formats.,将 .sup 添加到可识别的字幕格式中。,Adds .sup to the subtitle recognizable formats.
+"Added support for d3d11 hardware upscaling and integration with Intel VSR, NVIDIA RTX VSR and RTX HDR. Adds options for hardware video enhancements ofloading on a separate GPU different than the displaying one.",添加了对 d3d11 硬件升级的支持以及与 Intel VSR、NVIDIA RTX VSR 和 RTX HDR 的集成。添加了在不同于显示 GPU 的单独 GPU 上卸载硬件视频增强的选项。,"Добавена поддръжка за d3d11 хардуерно мащабиране и интеграция с Intel VSR, NVIDIA RTX VSR и RTX HDR. Добавя опции за хардуерни видео подобрения с разтоварване на отделен GPU различен от показващия."
+"Added support for launching the application with command-line arguments. Adds a page in \""Settings -> App Invocations\"" with explanation of the supported command-line and protocol URL arguments.","添加了使用命令行参数启动应用程序的支持。在""设置 -> 应用调用""中添加了一个页面，解释了支持的命令行和协议 URL 参数。","Добавена поддръжка за стартиране на приложението с аргументи на командния ред. Добавя страница в ""Настройки -> Извиквания на приложения"" с обяснение на поддържаните аргументи на командния ред и протоколния URL."
+Added support for m3u(8) playlist files and urls conversion to temporary playlist files on opening,添加了对 m3u(8) 播放列表文件和 URL 转换为临时播放列表文件的支持,Adds support for m3u(8) playlist files and urls conversion to temporary playlist files on opening
+"Added thumbnail support for cloud providers file managers (OneDrive, Dropbox) (disabled by default).",为云提供商文件管理器（OneDrive、Dropbox）添加了缩略图支持（默认禁用）。,"Adds thumbnail support for cloud providers file managers (OneDrive, Dropbox) (disabled by default)."
+"Added volume boost, speech and audio loudness normalizations to Audio effects",在音频效果中添加了音量提升、语音和音频响度标准化功能,"Adds volume boost, speech and audio loudness normalizations to Audio effects"
+Allow lyuv video output is disable by default now as it causes stutter issues with some type of files.,lyuv视频输出现在默认禁用，因为它会在某些类型的文件中导致卡顿问题。,"Разрешаването на lyuv видео изход е деактивирано по подразбиране, тъй като причинява проблеми със заекване при някои типове файлове."
+Associated .dts file format with audio DTS playback.,将 .dts 文件格式与音频 DTS 播放关联。,Associated .dts file format with audio DTS playback.
+"Automatically disable video for youtube media when playing in background, to allow background audo playback for youtube videos.",在后台播放YouTube媒体时自动禁用视频，以允许后台音频播放。,"Автоматично деактивиране на видео за YouTube медия при възпроизвеждане във фонов режим, за да се позволи аудио възпроизвеждане във фонов режим."
+Center aligns text subtitles in the non-system subtitle renderer.,在非系统字幕渲染器中居中对齐文本字幕。,Центрира текстовите субтитри в несистемния рендерър на субтитри.
+Change from global repeat playlist mode to separate repeat playlist modes per each playlist.,从全局重复播放列表模式更改为每个播放列表的单独重复播放列表模式。,Промяна от глобален режим на повторение на плейлист към отделни режими на повторение на плейлист за всеки плейлист.
+Changed cursor to end of text on first edit in OpenSubtitles view.,在OpenSubtitles视图中首次编辑时将光标更改到文本末尾。,Променен курсор в края на текста при първо редактиране в изгледа на OpenSubtitles.
+Changed Dropbox login mode to redirect to the local browser.,将Dropbox登录模式更改为重定向到本地浏览器。,Changed Dropbox login mode to redirect to the local browser.
+"Changes OneDrive authentication to use browser instead of native xbox dialog, because of log-in issues through it.",将OneDrive身份验证更改为使用浏览器而不是原生xbox对话框，因为某些地区存在登录问题。,Променя удостоверяването на OneDrive да използва браузър вместо нативния xbox диалог поради проблеми със влизането в някои региони.
+Context menu in file manager view can now be open with pressing 0 key when using remote where menu button is not triggered - like LG magic remote.,文件管理器视图中的上下文菜单现在可以通过按0键打开，当使用没有菜单按钮的遥控器时。,"Контекстното меню в изгледа на файловия мениджър сега може да се отвори с натискане на клавиш 0 при използване на дистанционно управление, където бутонът за меню не е наличен."
+Disabled subtitle shadows by default on XBOX( September console update mismatches subtitle shadows positions),在XBOX上默认禁用字幕阴影（9月控制台更新导致字幕阴影定位不匹配）。,Disabled subtitle shadows by default on XBOX( September console update mismatches subtitle shadows positions)
+"Dolby Digital passthrough - disabled by default( To enable Video/Audio settings-> Passthrough Dolby Digital).
+ Requires passthrough enabled in XBOX: Settings-> Volume & audio output-> Additional options -> Allow passthrough.",Dolby Digital直通 - 默认禁用（要启用：视频/音频设置-> 直通Dolby Digital）。,"Dolby Digital passthrough - disabled by default( To enable Video/Audio settings-> Passthrough Dolby Digital).
+ Requires passthrough enabled in XBOX: Settings-> Volume & audio output-> Additional options -> Allow passthrough."
+Dolby Digital passthrough - disabled by default( To enable Video/Audio settings-> Passthrough Dolby Digital).,Dolby Digital直通 - 默认禁用（要启用：视频/音频设置-> 直通Dolby Digital）。,Dolby Digital passthrough - disabled by default( To enable Video/Audio settings-> Passthrough Dolby Digital).
+Dolby Vision decoding support through the Microsoft decoders(requires Hevc and Dolby Vision Extensions). Can be enabled from Video/Audio Settings -> Allow Dolby Vision decoding.,通过 Microsoft 解码器支持 Dolby Vision 解码（需要 Dolby Vision 扩展）。,Dolby Vision decoding support through the Microsoft decoders(requires Hevc and Dolby Vision Extensions). Can be enabled from Video/Audio Settings -> Allow Dolby Vision decoding.
+DTS passthrough - disabled by default( To enable Video/Audio settings-> Passthrough DTS).,DTS 直通 - 默认禁用（要启用请前往视频/音频设置 -> 音频设置）。,DTS passthrough - disabled by default( To enable Video/Audio settings-> Passthrough DTS).
+Enables ffmpeg software decoding of 10-bit media.,启用 ffmpeg 软件解码 10 位媒体。,Активира ffmpeg софтуерно декодиране на 10-битова медия.
+Extended support for AV1 playback through the free Microsoft provided AV1 Video Extension.,通过Microsoft提供的免费AV1视频扩展扩展了对AV1播放的支持。,Extended support for AV1 playback through the free Microsoft provided AV1 Video Extension.
+External audio streams support,外部音频流支持。,External audio streams support
+Fixed an issue with reading playlist files(.pls) with new lines in them.,修复了读取包含换行符的播放列表文件（.pls）的问题。,Поправен проблем с четенето на файлове на плейлист (.pls) с нови редове в тях.
+Fixed back button closing subtitles views from info or opened subtitle menu.,修复了后退按钮从信息或打开的字幕菜单关闭字幕视图的问题。,Fixed back button closing subtitles views from info or opened subtitle menu.
+Fixed bug in the smart subtitle search for series with episodes ending in numbers.,修复了智能字幕搜索中以数字结尾的剧集系列的错误。,Fixed bug in the smart subtitle search for series with episodes ending in numbers.
+Fixed bug with auto-hiding when switching to Picture-in-Picture mode,修复了切换到画中画模式时自动隐藏的错误,Поправен бъг с автоматично скриване при превключване към режим Картина в картина
+Fixed bug with failing to load next media files after message about failed media load.,修复了在媒体加载失败消息后无法加载下一个媒体文件的错误。,Fixed bug with failing to load next media files after message about failed media load.
+Fixed bug with failing to play subsequent media files after using back button or escape to close the password screen for encrypted files.,修复了使用后退按钮或Esc关闭播放器窗口后无法播放后续媒体文件的错误。,Fixed bug with failing to play subsequent media files after using back button or escape to close the password screen for encrypted files.
+Fixed bug with failing to start when there are recently played files on removed removable drive.,修复了在已移除的可移动驱动器上有最近播放的文件时启动失败的错误。,Fixed bug with failing to start when there are recently played files on removed removable drive.
+Fixed bug with ignoring the Youtube quality playback options.,修复了忽略YouTube质量播放选项的错误。,Fixed bug with ignoring the Youtube quality playback options.
+"Fixed bug with infinite \""Would you like to play next\"" on failing to open some media.","修复了无法打开某些媒体时出现无限""您想播放下一个吗""的错误。","Поправен бъг с безкрайно ""Искате ли да възпроизведете следващото"" при неуспешно отваряне на някои медийни файлове."
+Fixed bug with on-demand local OneDrive files not streaming automatically.,修复了按需本地OneDrive文件不自动流式传输的错误。,Fixed bug with on-demand local OneDrive files not streaming automatically.
+Fixed bug with saving Youtube links names with special symbols as �,修复了将包含特殊符号的YouTube链接名称保存为�的错误,Поправен бъг със запазването на имена на YouTube връзки със специални символи като �
+Fixed bug with set youtube videos quality being ignored when video height doesn't match the quality value.,修复了当视频高度与质量值不匹配时设置的 YouTube 视频质量被忽略的错误。,Fixed bug with set youtube videos quality being ignored when video height doesn't match the quality value.
+Fixed bug with song art not showing in background playback.,修复了歌曲封面在后台播放中不显示的错误。,Fixed bug with song art not showing in background playback.
+Fixed bug with subtitles not being auto-selected after downloading from Opensubtitles,修复了从OpenSubtitles下载后字幕未自动选择的错误,"Поправен бъг със субтитри, които не се избират автоматично след изтегляне от OpenSubtitles"
+Fixed crash when loading invalid external audio stream.,修复了加载无效外部音频流时崩溃的问题。,Fixed crash when loading invalid external audio stream.
+Fixed crash while using FFmpeg hardware decoding on Windows 10X.,修复了在Windows 10X上使用FFmpeg硬件解码时崩溃的问题。,Fixed crash while using FFmpeg hardware decoding on Windows 10X.
+Fixed crash while using image subtitles.,修复了使用图像字幕时崩溃的问题。,Fixed crash while using image subtitles.
+Fixed crashes when trying to use FFmpeg HW decoding on devices without video cards.,修复了在没有显卡的设备上尝试使用FFmpeg硬件解码时崩溃的问题。,Fixed crashes when trying to use FFmpeg HW decoding on devices without video cards.
+Fixed crashes with sorting playlist files,修复了排序播放列表文件时的崩溃,Поправени срива при сортиране на файлове в плейлист
+Fixed downloading subtitles from OpenSubtitles.,修复了从OpenSubtitles下载字幕的问题。,Поправено изтеглянето на субтитри от OpenSubtitles.
+Fixed failure to save playlist in the local app folder when the whole windows disk is added as known folder.,修复了当整个Windows磁盘作为已知文件夹添加时无法在本地应用文件夹中保存播放列表的问题。,Fixed failure to save playlist in the local app folder when the whole windows disk is added as known folder.
+Fixed hang on start-up when OS fails to report device information.,修复了OS无法报告设备信息时启动挂起的问题。,Fixed hang on start-up when OS fails to report device information.
+Fixed internal image subtitles loading.,修复了内部图像字幕加载问题。,Fixed internal image subtitles loading.
+Fixed issue with keyboard quick keys activating when editing text fields in dialogs.,修复了在对话框中编辑文本字段时激活键盘快捷键的问题。,Fixed issue with keyboard quick keys activating when editing text fields in dialogs.
+Fixed missing menu options on pinned folders.,修复了固定文件夹上缺少菜单选项的问题。,Fixed missing menu options on pinned folders.
+Fixed missing Video/Music Libraries when empty.,修复了视频/音乐库为空时丢失的问题。,Fixed missing Video/Music Libraries when empty.
+Fixed next/previous file playback from the root OneDrive folder,修复了从 OneDrive 根目录播放上一/下一文件的问题,Fixed next/previous file playback from the root OneDrive folder
+Fixed now playing title losing semi-transparency in high-contrast mode,修复了在高对比度模式下正在播放标题失去半透明度的问题,"Поправена загуба на полупрозрачност на заглавието ""Сега се възпроизвежда"" в режим с висок контраст"
+Fixed occasional buffer crash when using software decoding.,修复了使用软件解码时偶尔发生的缓冲区崩溃。,Поправено случайно сриване на буфера при използване на софтуерно декодиране.
+Fixed OneDrive streaming issue with random throtling.,修复了OneDrive随机节流的流式传输问题。,Поправен проблем със стрийминга на OneDrive със случайно ограничаване.
+Fixed playback failures when disk space is low.,修复了磁盘空间不足时的播放失败。,"Поправени неуспехи при възпроизвеждане, когато дисковото пространство е малко."
+Fixed playback from OneDrive shared links.,修复了 OneDrive 共享链接的播放问题,Fixed playback from OneDrive shared links.
+Fixed previous/next media file search in Music/Video folders.,修复了在音乐/视频文件夹中搜索上一/下一媒体文件的问题,Fixed previous/next media file search in Music/Video folders.
+Fixed problem with subtitles always having shadows.,修复了字幕始终带有阴影的问题,Fixed problem with subtitles always having shadows.
+Fixed problems with switching between passthrough and uncompressed audion tracks.,修复了在直通和未压缩音频输出之间切换的问题。,Fixed problems with switching between passthrough and uncompressed audion tracks.
+Fixed problems with too often expiring Dropbox access.,修复了 Dropbox 访问过期过于频繁的问题,Fixed problems with too often expiring Dropbox access.
+Fixed rare crash on trying to load not existing on the disk files in the recently played list.,修复了从最近播放列表加载不存在文件时的罕见崩溃问题,Fixed rare crash on trying to load not existing on the disk files in the recently played list.
+Fixed rare crash while downloading subtitles from cloud providers on XBOX.,修复了在 XBOX 上从云服务下载字幕时的罕见崩溃问题,Fixed rare crash while downloading subtitles from cloud providers on XBOX.
+Fixed rare playback failures on network connection timeouts.,修复了网络连接超时时罕见的播放失败。,Поправени редки неуспехи при възпроизвеждане при тайм-аут на мрежова връзка.
+Fixed subtitles not loading for Youtube videos with subtitles.,修复了带字幕的 YouTube 视频字幕不加载的问题。,Fixed subtitles not loading for Youtube videos with subtitles.
+Fixed ui issue with media controls closing while in subtitles view causing lost of focus.,修复了在字幕视图中媒体控件关闭导致失去焦点的界面问题。,"Поправен проблем с потребителския интерфейс с медийните контроли, които се затварят, докато са в изгледа на субтитрите, причинявайки загуба на фокус."
+Fixed video playback issues with bringing app to front from suspended state.,修复了从挂起状态将应用程序带到前台时的视频播放问题。,Поправени проблеми с възпроизвеждането на видео при извеждане на приложението на преден план от спряно състояние.
+Fixed wrong preview seek thumbnail location when playlist view is opened.,修复了在打开播放列表视图时预览拖动缩略图位置错误的问题,Fixed wrong preview seek thumbnail location when playlist view is opened.
+Fixed youtube playback.,修复了 YouTube 播放。,Поправено възпроизвеждането на YouTube.
+Fixed black screen video of some mpeg4 videos,修复了某些 mpeg4 视频黑屏的问题,Fixes black screen video of some mpeg4 videos
+Fixed bug with audio distortion while using audio filters on some audio files.,修复了在某些音频文件上使用音频过滤器时音频失真的错误。,Fixes bug with audio distortion while using audio filters on some audio files.
+Fixed bug with media controls not hidding when viewing images.,修复了查看图像时媒体控件不隐藏的错误。,Fixes bug with media controls not hidding when viewing images.
+Fixed bug with mouse hover progress color always being green instead of using the themed button text color.,修复了鼠标悬停进度条颜色始终为绿色而不是使用主题按钮文本颜色的错误。,Fixes bug with mouse hover progress color always being green instead of using the themed button text color.
+Fixed bug with mouse hover progress going only to 90% before triggering their buttons instead of the full 100%.,修复了鼠标悬停进度条仅到达90%就触发按钮而非完整100%的错误。,Fixes bug with mouse hover progress going only to 90% before triggering their buttons instead of the full 100%.
+Fixed bug with OneDrive login redirect message box not showing when login is required for expired token.,修复了令牌过期需要登录时 OneDrive 登录重定向消息框不显示的错误。,Fixes bug with OneDrive login redirect message box not showing when login is required for expired token.
+Fixed bug with the integrated file manager not being able to list files and folders from some network drive types.,修复了集成文件管理器无法列出某些网络驱动器类型的文件和文件夹的错误。,Fixes bug with the integrated file manager not being able to list files and folders from some network drive types.
+"Fixed bug with thumbnail cache getting cleared on opening File manager, OneDrive or Dropbox settings.",修复了打开文件管理器、OneDrive或Dropbox设置时缩略图缓存被清除的错误。,"Fixes bug with thumbnail cache getting cleared on opening File manager, OneDrive or Dropbox settings."
+Fixed bug with very slow initial loading times when there are many invalid file access tokens pointing to unavailable storage e.g. creating a playlist from network drive that is an unknown location(not pinned) and then removing it from Windows.,修复了当有许多无效文件访问令牌指向不可用存储时初始加载时间非常慢的错误，例如从未固定的位置（未知位置）的网络驱动器创建播放列表，然后从 Windows 中删除它。,Fixes bug with very slow initial loading times when there are many invalid file access tokens pointing to unavailable storage e.g. creating a playlist from network drive that is an unknown location(not pinned) and then removing it from Windows.
+Fixed bug with white pixel shown sometimes during playback.,修复了播放过程中有时显示白色像素的错误。,Fixes bug with white pixel shown sometimes during playback.
+Fixed bugs with pre-buffering seconds not getting applied after seek.,修复了搜索后预缓冲秒数未应用的错误。,Fixes bugs with pre-buffering seconds not getting applied after seek.
+Fixed chapter title not entirely visible for 4:3 aspect ratio files.,修复了 4:3 宽高比文件的章节标题不完全可见的问题。,Fixes chapter title not entirely visible for 4:3 aspect ratio files.
+Fixed crash in opening playlists panel when last playlist is no more on the disk.,修复了当最后一个播放列表不再在磁盘上时打开播放列表面板时崩溃的问题。,Fixes crash in opening playlists panel when last playlist is no more on the disk.
+Fixed download from shared OneDrive links.,修复了从共享OneDrive链接下载的问题。,Поправя изтеглянето от споделени OneDrive връзки.
+Fixed elevated blacks when using RTX HDR.,修复了使用RTX HDR时黑色过亮的问题。,Поправя повишените черни нива при използване на RTX HDR.
+Fixed external bitmap subtitle loading when the subtitle format doesn't support seeking.,修复了当字幕格式不支持搜索时外部位图字幕加载的问题。,Fixes external bitmap subtitle loading when the subtitle format doesn't support seeking.
+Fixed issue with creating playback playlist from HLS segments instead of directly playing the stream.,修复了从 HLS 片段创建播放列表而不是直接播放流的问题。,Fixes issue with creating playback playlist from HLS segments instead of directly playing the stream.
+Fixed issue with HEVC extensions not being detected.,修复了 HEVC 扩展未被检测到的问题。,Fixes issue with HEVC extensions not being detected.
+Fixed issue with media opened with protocol not going into expanded view.,修复了使用协议打开的媒体无法进入扩展视图的问题。,Fixes issue with media opened with protocol not going into expanded view.
+Fixed issue with prevent subtitles overlap being always enabled for external subtitles. ,修复了外部字幕始终启用防止字幕重叠的问题。 ,"Поправя проблем с предотвратяване на припокриване на субтитри, което е винаги активно за външни субтитри. "
+Fixed issue with search string getting reset on reopening OpenSubtitles for same media file.,修复了为同一媒体文件重新打开 OpenSubtitles 时搜索字符串被重置的问题。,Fixes issue with search string getting reset on reopening OpenSubtitles for same media file.
+Fixed issue with subtitle duplication when multiple subs overlap in the same range.,修复了当多个字幕在同一范围内重叠时字幕重复的问题。,"Поправя проблем с дублиране на субтитри, когато множество субтитри се припокриват в същия диапазон."
+Fixed issue with text color transparency not triggering when using system text colors.,修复了使用系统文本颜色时文本颜色透明度未触发的问题。,Fixes issue with text color transparency not triggering when using system text colors.
+Fixed issues with black screen with some Dolby Vision media.,修复了某些 Dolby Vision 媒体出现黑屏的问题。,Fixes issues with black screen with some Dolby Vision media.
+Fixed issues with external subtitles auto-selection when the option is enabled. ,修复了启用该选项时外部字幕自动选择的问题。 ,"Поправя проблеми с автоматичния избор на външни субтитри, когато опцията е активирана. "
+Fixed issues with mpeg playback.,修复了 mpeg 播放的问题。,Fixes issues with mpeg playback.
+Fixed issues with playback from OneDrive.,修复了从 OneDrive 播放的问题。,Fixes issues with playback from OneDrive.
+Fixed issues with playlists with local files not playing after v180 update.,修复了 v180 更新后本地文件播放列表无法播放的问题。,Fixes issues with playlists with local files not playing after v180 update.
+Fixed issues with some thumbnails for images not getting generated in preview thumbnail mode.,修复了预览缩略图模式下某些图像缩略图无法生成的问题。,Fixes issues with some thumbnails for images not getting generated in preview thumbnail mode.
+Fixed Menu button not triggering menu for the selected subtitle in OpenSubtitles view.,修复了 OpenSubtitles 视图中所选字幕的菜单按钮不触发菜单的问题。,Fixes Menu button not triggering menu for the selected subtitle in OpenSubtitles view.
+Fixed micro flicker on subtitle hiddin when playing HDR/Dolby vision media in fullscreen.,修复了在全屏播放 HDR/Dolby Vision 媒体时字幕隐藏时的微闪烁问题。,Fixes micro flicker on subtitle hiddin when playing HDR/Dolby vision media in fullscreen.
+Fixed OneDrive playback issues when buffer seconds are less that 3 seconds.,修复了缓冲秒数少于 3 秒时 OneDrive 播放问题。,Fixes OneDrive playback issues when buffer seconds are less that 3 seconds.
+Fixed OneDrive root folder not opening when the account has shared folders added to it.,修复了当帐户添加了共享文件夹时 OneDrive 根文件夹无法打开的问题。,Fixes OneDrive root folder not opening when the account has shared folders added to it.
+Fixed overlapping subtitles duration bug causing some subtitles to hide too fast.,修复了重叠字幕持续时间错误导致某些字幕隐藏过快的问题。,Fixes overlapping subtitles duration bug causing some subtitles to hide too fast.
+Fixed playback from Youtube.,修复了从Youtube播放的问题。,Поправя възпроизвеждането от Youtube.
+Fixed playback from Youtube,修复了从 YouTube 播放的问题,Fixes playback from Youtube
+Fixed playback of 4:2:2 mpeg2 videos when using the microsoft decoders,修复了使用 Microsoft 解码器时 4:2:2 mpeg2 视频的播放问题,Fixes playback of 4:2:2 mpeg2 videos when using the microsoft decoders
+Fixed rare issue with subtitle cue getting stuck and not disapearing even on media change.,修复了字幕提示卡住且即使在媒体更改时也不消失的罕见问题。,Fixes rare issue with subtitle cue getting stuck and not disapearing even on media change.
+Fixed remembering playback from exFat removable storages.,修复了从exFat可移动存储记住播放的问题。,Поправя запомнянето на възпроизвеждането от exFat преносими устройства.
+Fixed subtitle download from OpenSubtitles.,修复了从OpenSubtitles下载字幕的问题。,Fixes subtitle download from OpenSubtitles.
+Fixed video not showing when switching to different app and returning back to the player.,修复了切换到其他应用程序并返回播放器时视频不显示的问题。,Fixes video not showing when switching to different app and returning back to the player.
+Fixed youtube live streams playback.,修复了 YouTube 直播流播放的问题。,Fixes youtube live streams playback.
+Fixed youtube playback.,修复了 YouTube 播放问题。,Fixes youtube playback.
+Fixed youtube playback of not age restricted videos.,修复了非年龄限制视频的 YouTube 播放问题。,Fixes youtube playback of not age restricted videos.
+General improvements in the file explorer for search and context menus. ,改进了文件资源管理器中的搜索和右键菜单体验,General improvements in the file explorer for search and context menus. 
+HDR playback improvements.,改进了 HDR 播放效果,HDR playback improvements.
+HDR support,新增 HDR 支持,HDR support
+Improved background audio playback,改进了后台音频播放,Improved background audio playback
+Improved dolby vision support.,改进的杜比视界支持。,Подобрена поддръжка на Dolby Vision.
+Improved high bitrate video streaming.,改进了高码率视频流播放,Improved high bitrate video streaming.
+Improved media servers discovery,改进的媒体服务器发现,Подобрено откриването на медийни сървъри
+Improved network streaming from wide variety of sources.,改进了来自多种来源的网络流媒体播放,Improved network streaming from wide variety of sources.
+"Improved playlists with adding files from local file system, media servers, internet or cloud providers.",改进了从本地、媒体服务器、互联网或云服务添加文件到播放列表的体验,"Improved playlists with adding files from local file system, media servers, internet or cloud providers."
+Improved quick access menu navigation.,改进了快速访问菜单的导航体验,Improved quick access menu navigation.
+Improved seeking while playing 4k media.,改进了 4K 媒体播放时的拖动与定位性能,Improved seeking while playing 4k media.
+Improved shuffle files in playlists algorithm.,改进了播放列表的随机播放算法,Improved shuffle files in playlists algorithm.
+Improved software and hardware decoding.,改进了软解码和硬解码性能,Improved software and hardware decoding.
+Improved thumbnail loading.,改进的缩略图加载。,Подобрено зареждането на миниатюри.
+Improved Youtube links recognition.,改进了 YouTube 链接识别,Improved Youtube links recognition.
+Improved Youtube playlist extract support.,改进了 YouTube 播放列表解析支持,Improved Youtube playlist extract support.
+Improvements for quick resuming video files on XBOX.,改进了在 XBOX 上快速恢复视频播放的能力,Improvements for quick resuming video files on XBOX.
+Improvements on AAC media playback.,AAC 媒体播放改进。,Improvements on AAC media playback.
+Improvements on changelog presentation and added view with update info after updating.,改进了更新日志的展示方式，并新增了更新后显示更新信息的视图,Improvements on changelog presentation and added view with update info after updating.
+"Improvements on file manager information presentation during copying, moving, encrypting and decryption.",改进了文件管理器在复制、移动、加密和解密过程中的信息展示,"Improvements on file manager information presentation during copying, moving, encrypting and decryption."
+Improvements on UHD hardware decoding on XBOX.,改进了 XBOX 上的 UHD 硬件解码性能,Improvements on UHD hardware decoding on XBOX.
+Improves Dolby Vision profile 8 detection.,改进了 Dolby Vision 配置文件 8 的检测。,Improved Dolby Vision profile 8 detection.
+"Improves image files support by enabling their discovery with playing next, showing thumbnails or opening from the internal file manager instead of through drag drop only.",通过启用使用播放下一个、显示缩略图或从内部文件管理器打开而不仅仅通过拖放的方式来发现图像文件，改进了图像文件支持。,"Improved image files support by enabling their discovery with playing next, showing thumbnails or opening from the internal file manager instead of through drag drop only."
+Improves smart subtitle look-up in OneDrive and Dropbox for subtitles directly in subfolder.,改进了 OneDrive 和 Dropbox 中直接在子文件夹中查找字幕的智能字幕查找功能。,Improved smart subtitle look-up in OneDrive and Dropbox for subtitles directly in subfolder.
+Improves swipe detection up/down and left/right for volume and seeking. Swipes can be enabled from Settings -> UI settings.,改进了上下和左右滑动检测以调节音量和查找。可以从设置 -> 界面设置启用滑动。,Improved swipe detection up/down and left/right for volume and seeking. Swipes can be enabled from Settings -> UI settings.
+Increased default time for mouse hover select triggering to 3 seconds.,将鼠标悬停选择触发的默认时间增加到3秒。,Увеличено време по подразбиране за активиране на избор с посочване с мишката до 3 секунди.
+"Library now shows video, audio, image or subtitle files playable by the player from removable storages or OneDrive and Dropbox.",库现在显示播放器可以从可移动存储或 OneDrive 和 Dropbox 播放的视频、音频、图像或字幕文件。,"Библиотеката сега показва видео, аудио, изображение или субтитрени файлове, които могат да се възпроизвеждат от плейъра от сменяеми носители или OneDrive и Dropbox."
+Makes skip chapters button hideable on gamepad X button when controls are hidden and timeout for auto-hiding skip button is active,当控件隐藏时，可使用游戏手柄X按钮隐藏跳过章节按钮，并将控件自动隐藏超时增加到5秒。,"Прави бутона за пропускане на глави скриваем с бутон X на геймпада, когато контролите са скрити, и тайм-аут за автоматично скриване на контролите е увеличен до 5 секунди."
+Media seeking improvements.,媒体搜索改进。,Media seeking improvements.
+Memory usage improvements.,内存使用改进。,Подобрения в използването на паметта.
+Microsoft codec installation links now show if the codec is already installed.,Microsoft编解码器安装链接现在显示编解码器是否已安装。,Връзките за инсталиране на Microsoft кодек сега показват дали кодекът вече е инсталиран.
+Minimize button in Picture-in-Picture mode,画中画模式下新增最小化按钮,Minimize button in Picture-in-Picture mode
+Native ARM64 support.,原生ARM64支持。,Нативна поддръжка на ARM64.
+New option for disabling background media playback and improvement on moving the app from background to foreground and vice versa.,新增禁用后台媒体播放的选项，并改进了应用前后台切换体验,New option for disabling background media playback and improvement on moving the app from background to foreground and vice versa.
+New option for enabling tap to play/pause when screen locked.,新增在屏幕锁定时轻触播放/暂停的选项,New option for enabling tap to play/pause when screen locked.
+"Now \""Auto play next media file when fail to open media file.\"" will auto-play next files when failed files are youtube too instead of interupting with a loading failed message","现在""打开媒体文件失败时自动播放下一个媒体文件""将在无法打开当前文件时自动播放下一个文件。","Сега ""Автоматично възпроизвеждане на следващия медиен файл при неуспех при отваряне на медиен файл."" ще възпроизвежда автоматично следващите файлове при неуспех при отваряне на текущия файл."
+Performance improvement for cloud streams.,改进了云端流媒体的性能,Performance improvement for cloud streams.
+Performance improvements for 4k video files.,改进了 4K 视频文件的性能,Performance improvements for 4k video files.
+Performance optimizations on loading folders with many items in the integrated file manager.,在集成文件管理器中加载包含许多项目的文件夹时的性能优化。,Оптимизации на производителността при зареждане на папки с много елементи в интегрирания файлов мениджър.
+"Playback improvements(hardware acceleration, playback on 32-bit devices).",改进了播放性能（硬件加速、32 位设备播放）,"Playback improvements(hardware acceleration, playback on 32-bit devices)."
+Responsiveness improvements in the integrated file/OneDrive/Dropbox explorer,改进了集成文件/OneDrive/Dropbox 浏览器的响应速度,Responsiveness improvements in the integrated file/OneDrive/Dropbox explorer
+Software decoding improvements(Mpeg4/Xvid).,改进了 Mpeg4/Xvid 的软件解码性能,Software decoding improvements(Mpeg4/Xvid).
+Spherical video support,新增球面视频支持,Spherical video support
+Support for adding external audio streams to currently playing media,支持为当前播放的媒体添加外部音频流,Support for adding external audio streams to currently playing media
+Themes support (Settings -> UI settings).,新增主题支持（设置 → 界面设置）,Themes support (Settings -> UI settings).
+Thumbnail seek preview redesign for smoother seek on big video files.,重新设计了缩略图预览，以提升大视频文件的拖动流畅度,Thumbnail seek preview redesign for smoother seek on big video files.
+"UHD, HDR & Dolby Vision profile 5 support. Background audio playback is not supported.",支持 UHD、HDR 和 Dolby Vision 配置文件 5。不支持后台音频播放。,"Поддръжка на UHD, HDR и Dolby Vision профил 5. Фоновото аудио възпроизвеждане не се поддържа."
+Updated to ffmpeg v5.,更新到 ffmpeg v5。,Актуализиран до ffmpeg v5.
+Updated to ffmpeg v7.,更新到 ffmpeg v7。,Актуализиран до ffmpeg v7.
+Updated Youtube support.,更新了 YouTube 支持,Updated Youtube support.
+Upgraded FFmpeg version to 4.4.0,将 FFmpeg 升级至 4.4.0 版本,Upgraded FFmpeg version to 4.4.0
+Various theme-related UI fixes,各种与主题相关的界面修复,"Различни поправки на ПИ, свързани с темата"
+Version {0},版本 {0},Версия {0}
+Version 1.0.0.103,版本 1.0.0.103,Версия 1.0.0.103
+Version 1.0.0.111,版本 1.0.0.111,Версия 1.0.0.111
+Version 1.0.0.121,版本 1.0.0.121,Версия 1.0.0.121
+Version 1.0.0.124,版本 1.0.0.124,Версия 1.0.0.124
+Version 1.0.0.126,版本 1.0.0.126,Версия 1.0.0.126
+Version 1.0.0.129,版本 1.0.0.129,Версия 1.0.0.129
+Version 1.0.0.145,版本 1.0.0.145,Версия 1.0.0.145
+Version 1.0.0.151,版本 1.0.0.151,Версия 1.0.0.151
+Version 1.0.0.155,版本 1.0.0.155,Версия 1.0.0.155
+Version 1.0.0.174,版本 1.0.0.174,Версия 1.0.0.174
+Version 1.0.0.177,版本 1.0.0.177,Версия 1.0.0.177
+Version 1.0.0.180,版本 1.0.0.180,Версия 1.0.0.180
+Version 1.0.0.181,版本 1.0.0.181,Версия 1.0.0.181
+Version 1.0.0.183,版本 1.0.0.183,Версия 1.0.0.183
+Version 1.0.0.189,版本 1.0.0.189,Версия 1.0.0.189
+Version 1.0.0.191,版本 1.0.0.191,Версия 1.0.0.191
+Version 1.0.0.202,版本 1.0.0.202,Версия 1.0.0.202
+Version 1.0.0.217,版本 1.0.0.217,Версия 1.0.0.217
+Version 1.0.0.219,版本 1.0.0.219,Версия 1.0.0.219
+Version 1.0.0.221,版本 1.0.0.221,Версия 1.0.0.221
+Version 1.0.0.223,版本 1.0.0.223,Версия 1.0.0.223
+Version 1.0.0.227,版本 1.0.0.227,Версия 1.0.0.227
+Version 1.0.0.230,版本 1.0.0.230,Версия 1.0.0.230
+Version 1.0.0.235,版本 1.0.0.235,Версия 1.0.0.235
+Version 1.0.0.243,版本 1.0.0.243,Версия 1.0.0.243
+Version 1.0.0.250,版本 1.0.0.250,Версия 1.0.0.250
+Version 1.0.0.251,版本 1.0.0.251,Версия 1.0.0.251
+Version 1.0.0.266,版本 1.0.0.266,Версия 1.0.0.266
+Version 1.0.0.281,版本 1.0.0.281,Версия 1.0.0.281
+Version 1.0.0.287,版本 1.0.0.287,Версия 1.0.0.287
+Version 1.0.0.291,版本 1.0.0.291,Версия 1.0.0.291
+Version 1.0.0.33,版本 1.0.0.33,Версия 1.0.0.33
+Version 1.0.0.42,版本 1.0.0.42,Версия 1.0.0.42
+Version 1.0.0.47,版本 1.0.0.47,Версия 1.0.0.47
+Version 1.0.0.52,版本 1.0.0.52,Версия 1.0.0.52
+Version 1.0.0.61,版本 1.0.0.61,Версия 1.0.0.61
+Version 1.0.0.65,版本 1.0.0.65,Версия 1.0.0.65
+Version 1.0.0.67,版本 1.0.0.67,Версия 1.0.0.67
+Version 1.0.0.69,版本 1.0.0.69,Версия 1.0.0.69
+Version 1.0.0.85,版本 1.0.0.85,Версия 1.0.0.85
+Version 1.0.0.86,版本 1.0.0.86,Версия 1.0.0.86
+Version 1.0.0.91,版本 1.0.0.91,Версия 1.0.0.91
+Version 1.0.0.96,版本 1.0.0.96,Версия 1.0.0.96
+Versions before 1.0.0.33,1.0.0.33 之前的版本,Versions before 1.0.0.33
+Video rotation support,支持视频旋转,Video rotation support
+Youtube audio only option(General settings).,YouTube 纯音频选项（常规设置）。,Youtube audio only option(General settings).
+Zoom support,支持缩放,Zoom support
+Next,下一章,Следваща
+Skip,跳过,Пропусни
+Chapters,章节,Глави
+Folder,文件夹,Папка
+AliceBlue,爱丽丝蓝,Алис синьо
+AntiqueWhite,古董白,Антично бяло
+Aqua,水绿色,Аква
+Aquamarine,碧绿色,Аквамарин
+Azure,天蓝色,Лазурно
+Beige,米色,Бежово
+Bisque,陶坯色,Бисквит
+Black,黑色,Черно
+BlanchedAlmond,杏仁白,Побелял бадем
+Blue,蓝色,Синьо
+BlueViolet,蓝紫色,Синьо-виолетово
+Brown,棕色,Кафяво
+BurlyWood,硬木色,Груба дървесина
+CadetBlue,军服蓝,Кадетско синьо
+Chartreuse,黄绿色,Шартрьоз
+Chocolate,巧克力色,Шоколад
+Coral,珊瑚色,Коралово
+CornflowerBlue,矢车菊蓝,Синьо като синявица
+Cornsilk,玉米须色,Царевична коприна
+Crimson,深红色,Кърваво червено
+Cyan,青色,Циан
+DarkBlue,深蓝色,Тъмно синьо
+DarkCyan,深青色,Тъмно циан
+DarkGoldenrod,深金菊色,Тъмно златна пръчка
+DarkGray,深灰色,Тъмно сиво
+DarkGreen,深绿色,Тъмно зелено
+DarkKhaki,深卡其色,Тъмно каки
+DarkMagenta,深洋红色,Тъмна магента
+DarkOliveGreen,深橄榄绿,Тъмно маслиново зелено
+DarkOrange,深橙色,Тъмно оранжево
+DarkOrchid,深兰花紫,Тъмна орхидея
+DarkRed,深红色,Тъмно червено
+DarkSalmon,深鲑鱼色,Тъмна сьомга
+DarkSeaGreen,深海绿色,Тъмно морско зелено
+DarkSlateBlue,深岩蓝,Тъмно шистово синьо
+DarkSlateGray,深岩灰,Тъмно шистово сиво
+DarkTurquoise,深绿松石色,Тъмно тюркоазено
+DarkViolet,深紫罗兰色,Тъмно виолетово
+DeepPink,深粉色,Дълбоко розово
+DeepSkyBlue,深天蓝,Дълбоко небесно синьо
+DimGray,暗灰色,Тъмно сиво
+DodgerBlue,道奇蓝,Доджър синьо
+Firebrick,火砖红,Огнена тухла
+FloralWhite,花白色,Цветно бяло
+ForestGreen,森林绿,Горско зелено
+Fuchsia,紫红色,Фуксия
+Gainsboro,淡灰色,Гейнсборо
+GhostWhite,幽灵白,Призрачно бяло
+Gold,金色,Златно
+Goldenrod,金菊色,Златна пръчка
+Gray,灰色,Сиво
+Green,绿色,Зелено
+GreenYellow,黄绿色,Зелено-жълто
+Honeydew,蜜瓜色,Пъпеш
+HotPink,热粉色,Горещо розово
+IndianRed,印度红,Индианско червено
+Indigo,靛蓝色,Индиго
+Ivory,象牙色,Слонова кост
+Khaki,卡其色,Каки
+Lavender,薰衣草色,Лавандула
+LavenderBlush,淡紫红,Лавандулов руж
+LawnGreen,草坪绿,Тревно зелено
+LemonChiffon,柠檬绸色,Лимонов шифон
+LightBlue,浅蓝色,Светло синьо
+LightCoral,浅珊瑚色,Светло коралово
+LightCyan,浅青色,Светло циан
+LightGoldenrodYellow,浅金菊黄,Светло златно-жълто
+LightGray,浅灰色,Светло сиво
+LightGreen,浅绿色,Светло зелено
+LightPink,浅粉色,Светло розово
+LightSalmon,浅鲑鱼色,Светла сьомга
+LightSeaGreen,浅海绿色,Светло морско зелено
+LightSkyBlue,浅天蓝色,Светло небесно синьо
+LightSlateGray,浅岩灰,Светло шистово сиво
+LightSteelBlue,浅钢蓝色,Светло стоманено синьо
+LightYellow,浅黄色,Светло жълто
+Lime,青柠色,Лайм
+LimeGreen,酸橙绿,Лаймово зелено
+Linen,亚麻色,Ленено
+Magenta,洋红色,Магента
+Maroon,栗色,Кестеняво
+MediumAquamarine,中碧绿色,Среден аквамарин
+MediumBlue,中蓝色,Средно синьо
+MediumOrchid,中兰花紫,Средна орхидея
+MediumPurple,中紫色,Средно лилаво
+MediumSeaGreen,中海绿色,Средно морско зелено
+MediumSlateBlue,中岩蓝,Средно шистово синьо
+MediumSpringGreen,中春绿色,Средно пролетно зелено
+MediumTurquoise,中绿松石色,Средно тюркоазено
+MediumVioletRed,中紫罗兰红,Средно виолетово-червено
+MidnightBlue,午夜蓝,Полунощно синьо
+MintCream,薄荷奶油色,Мента крем
+MistyRose,雾玫瑰色,Мъгливо розово
+Moccasin,鹿皮色,Мокасин
+NavajoWhite,纳瓦白,Навахо бяло
+Navy,海军蓝,Тъмно синьо
+OldLace,旧蕾丝色,Стара дантела
+Olive,橄榄色,Маслиново
+OliveDrab,橄榄褐色,Блекло маслиново
+Orange,橙色,Оранжево
+OrangeRed,橙红色,Оранжево-червено
+Orchid,兰花色,Орхидея
+PaleGoldenrod,淡金菊色,Бледна златна пръчка
+PaleGreen,淡绿色,Бледно зелено
+PaleTurquoise,淡绿松石色,Бледно тюркоазено
+PaleVioletRed,淡紫红色,Бледо виолетово-червено
+PapayaWhip,番木瓜色,Папая бит
+PeachPuff,桃色,Праскова пуф
+Peru,秘鲁色,Перу
+Pink,粉红色,Розово
+Plum,梅子色,Сливово
+PowderBlue,粉蓝色,Прахово синьо
+Purple,紫色,Лилаво
+Red,红色,Червено
+RosyBrown,玫瑰褐色,Розово кафяво
+RoyalBlue,皇家蓝,Кралско синьо
+SaddleBrown,马鞍棕色,Седлово кафяво
+Salmon,鲑鱼色,Сьомга
+SandyBrown,沙褐色,Пясъчно кафяво
+SeaGreen,海绿色,Морско зелено
+SeaShell,海贝色,Морска раковина
+Sienna,赭色,Сиена
+Silver,银色,Сребърно
+SkyBlue,天空蓝,Небесно синьо
+SlateBlue,石板蓝,Шистово синьо
+SlateGray,岩灰色,Шистово сиво
+Snow,雪白色,Снежно
+SpringGreen,春绿色,Пролетно зелено
+SteelBlue,钢蓝色,Стоманено синьо
+Tan,棕褐色,Кафяво-жълто
+Teal,青绿色,Тийл
+Thistle,蓟色,Бодил
+Tomato,番茄色,Доматено
+Transparent,透明,Прозрачно
+Turquoise,绿松石色,Тюркоазено
+Violet,紫罗兰色,Виолетово
+Wheat,小麦色,Пшенично
+White,白色,Бяло
+WhiteSmoke,烟白色,Бял дим
+Yellow,黄色,Жълто
+YellowGreen,黄绿色,Жълто-зелено
+Expanded fullscreen,扩展全屏模式,Разширен на цял екран
+Expanded view,扩展视图,Разширен изглед
+File manager,文件管理器,Файлов мениджър
+Picture-in-Picture,画中画模式,Картина-в-картината
+Preview,预览模式,Преглед
+Opaque,不透明,Непрозрачен
+Semi-Transparent,半透明,Полупрозрачен
+Auto when fullscreen on HDR capable monitor,HDR 显示器全屏时自动启用,Автоматично при цял екран на HDR монитор
+Auto when on HDR capable monitor,在 HDR 显示器上自动启用,Автоматично на HDR монитор
+FFmpeg(DirectX 11),FFmpeg(DirectX 11),FFmpeg (DirectX 11)
+Microsoft(Media foundation),Microsoft(Media foundation),Microsoft (Media foundation)
+Big,大,Голям
+Huge,巨大,Огромен
+Normal,正常,Нормален
+Small,小,Малък
+Open without saving the subtitle,打开但不保存字幕,Отваряне без запазване на субтитрите
+Save in playing file location,保存到媒体文件所在文件夹,Запазване в папката на медийния файл
+Select download location,选择下载位置,Избор на място за изтегляне
+Dark,深色主题,Тъмна
+Light,浅色主题,Светла
+None,无,Без
+Play position,播放位置,Позиция на възпроизвеждане
+Preview at 00:00:20,预览于 00:00:20,Преглед на 00:00:20
+Bilinear,双线性,Билинейно
+Intel Video Super Resolution,Intel 视频超分辨率,Intel Video Super Resolution
+NVIDIA RTX Video Super Resolution,NVIDIA RTX 视频超分辨率,NVIDIA RTX Video Super Resolution
+FullHD (1080p),FullHD (1080p),FullHD (1080p)
+QHD (1440p),QHD (1440p),QHD (1440p)
+1.5x original resolution,1.5× 原始分辨率,1.5x оригинална разделителна способност
+UHD (2160p),UHD (2160p),UHD (2160p)
+UHD 5k (2880p),UHD 5k (2880p),UHD 5k (2880p)
+2x original resolution,2× 原始分辨率,2x оригинална разделителна способност
+3x original resolution,3× 原始分辨率,3x оригинална разделителна способност
+4x original resolution,4× 原始分辨率,4x оригинална разделителна способност
+HD ready (720p),HD ready (720p),HD ready (720p)
+Display resolution,显示器分辨率,Разделителна способност на дисплея
+480p,480p,480p
+Best available,最佳可用质量,Най-добро качество
+FullHD(1080p),FullHD(1080p),FullHD (1080p)
+HD Ready(720p),HD Ready(720p),HD Ready (720p)
+QHD(1440p),QHD(1440p),QHD (1440p)
+UHD(2160p),UHD(2160p),UHD (2160p)
+Playlist name:,播放列表名称,Име на плейлист:
+Add,添加,Добавяне
+Create,创建,Създаване
+Create playlist,创建播放列表,Създаване на плейлиста
+Decrypt,解密,Декриптиране
+Encrypt,加密,Криптиране
+Play,播放,Пускане
+Rename,重命名,Преименуване
+Set,设置,Задаване
+Untitled,未命名,Без име
+Automatically stream on demand files,按需自动流式播放文件,Автоматично стриймване на файлове
+Pro-only Feature!,仅限专业版功能,Функция само в Pro версията!
+Display name:,显示名称：,Име за показване:
+Add as external audio to current playing media,作为外部音频添加到当前播放的媒体,Добави като външно аудио към текущото възпроизвеждане
+Add selected to playlist,将所选内容添加到播放列表,Добави избраните към плейлист
+Add shared folder,添加共享文件夹,Добави споделена папка
+Add to current playing media,添加到当前播放的媒体,Добави към текущото възпроизвеждане
+Ascending,升序,Възходящо
+Copy,复制,Копирай
+Create playlist from current folder,从当前文件夹创建播放列表,Създай плейлист от текущата папка
+Create playlist from selected,从所选内容创建播放列表,Създай плейлист от избраните
+Cut,剪切,Изрежи
+Decrypt file,解密文件,Декриптирай файл
+Descending,降序,Низходящо
+Encrypt file,加密文件,Криптирай файл
+Invert selection,反选,Обърни селекцията
+Last modified date,最后修改日期,Дата на последна промяна
+Name,名称,Име
+New folder,新建文件夹,Нова папка
+Open,打开,Отвори
+Open with,打开方式,Отвори с
+Paste,粘贴,Постави
+Pin folder,固定文件夹,Закачи папка
+Playlists,播放列表,Плейлисти
+Refresh,刷新,Опресни
+Request full drive rights,请求完整磁盘权限,Заяви пълни права за диска
+Select all,全选,Избери всички
+Select none,取消全选,Не избирай нищо
+Show folders first,文件夹优先显示,Показвай папките първи
+Size,大小,Размер
+Try play as encrypted file,尝试作为加密文件播放,Опитай да пуснеш като криптиран файл
+Unpin folder,取消固定文件夹,Откачи папка
+Add media folder,添加媒体文件夹,Добави медийна папка
+Creating new folder,创建新文件夹,Създаване на нова папка
+Energy Media Player Folder,Energy Media Player 文件夹,Папка на Energy Media Player
+Enter multi selection mode,进入多选模式,Влез в режим на мултиселекция
+Exit multi selection mode,退出多选模式,Излез от режим на мултиселекция
+Press ,按下,Натиснете 
+Renaming {0},重命名 {0},Преименуване на {0}
+Search in subfolders,在子目录中搜索,Търси в поддиректориите
+ for file explorer menu,用于文件资源管理器菜单, за менюто на файловия експлорър
+Copying,正在复制,Копиране на
+Deleting,正在删除,Изтриване на
+Moving,正在移动,Преместване на
+to,到,към
+App suspending while not playing media,未播放媒体时应用将挂起,"Приложението се суспендира, когато не възпроизвежда медии"
+Ask for playlist generation on opening files from unknown locations,从未知位置打开文件时询问是否生成播放列表,Питай за генериране на плейлист при отваряне на файлове от неизвестни местоположения
+Auto generate playlist on opening files from unknown locations,从未知位置打开文件时自动生成播放列表,Автоматично генериране на плейлист при отваряне на файлове от неизвестни местоположения
+Auto play next media file when current ends,当前媒体播放结束后自动播放下一个媒体文件,"Автоматично възпроизвеждане на следващия медиен файл, когато текущият приключи"
+Auto play next media file when fail to open media file,无法打开媒体文件时自动播放下一个媒体文件,Автоматично възпроизвеждане на следващия медиен файл при неуспешно отваряне на медиен файл
+"⚠️ By default accessing local network streams (e.g., from 127.0.0.1 or localhost) is disabled. To enable it you’ll need to allow loopback access for the app.
+",⚠️ 默认情况下，访问本地网络流（如 127.0.0.1 或 localhost）被禁用。要启用此功能，您需要为应用允许回环访问。,"⚠️ По подразбиране достъпът до локални мрежови потоци (напр. от 127.0.0.1 или localhost) е забранен. За да го активирате, трябва да разрешите loopback достъп за приложението.
+"
+Display lag recovery messages,显示延迟恢复消息,Показвай съобщения за възстановяване от забавяне
+"Keep only currently playing media in ""Currently playing"" playlist",仅在“正在播放”列表中保留当前播放的媒体,"Запазвай само текущо възпроизвежданите медии в ""В момента се възпроизвежда"" плейлист"
+Keep track of recent opened files,记录最近打开的文件,Следене на последно отваряните файлове
+Lag recovery,延迟恢复,Възстановяване от забавяне
+Learn more,了解更多,Научете повече
+Limit network connections accepted response time to 20s,将网络连接的响应时间限制为 20 秒,Ограничи приетото време за отговор на мрежовите връзки до 20 сек
+Load last played file on startup,启动时加载上次播放的文件,Зареждане на последния възпроизведен файл при стартиране
+Local media buffer seconds,本地媒体缓冲秒数,Секунди на буфер за локални медии
+Network buffer sizes:,网络缓冲区大小：,Размери на мрежовия буфер:
+Network media buffer seconds,网络媒体缓冲秒数,Секунди на буфер за мрежови медии
+Play only audio from Youtube,仅播放 YouTube 音频,Възпроизвеждай само аудио от Youtube
+Prefer HDR sources when playing from Youtube,播放 YouTube 时优先使用 HDR 源,Предпочитай HDR източници при възпроизвеждане от Youtube
+Preferred Youtube playback quality:,首选 YouTube 播放质量：,Предпочитано качество на възпроизвеждане от Youtube:
+Prompt for continue playback(Music),提示继续播放（音乐）,Подкана за продължаване на възпроизвеждането (Музика)
+Prompt for continue playback(Video),提示继续播放（视频）,Подкана за продължаване на възпроизвеждането (Видео)
+Recent files count,最近文件数量,Брой на последните файлове
+Remember play position(Music),记住播放位置(音乐),Запомняне на позицията на възпроизвеждане (Музика)
+Remember play position(Video),记住播放位置(视频),Запомняне на позицията на възпроизвеждане (Видео)
+Reset application,重置应用,Нулиране на приложението
+Reset play position for watched media,重置已观看媒体的播放位置,Нулиране на позицията на възпроизвеждане за изгледани медии
+Show file paths in recent files view,在最近文件视图中显示文件路径,Показвай пътищата на файловете в изгледа за последните файлове
+Show update info on new version update,在新版本更新时显示更新信息,Показвай информация за актуализация при нова версия
+Use disk caching (improved memory usage),使用磁盘缓存（改善内存使用）,Използвай дисково кеширане (подобрена употреба на паметта)
+Use local media prebuffering,使用本地媒体预缓冲,Използвай предварително буфериране на локални медии
+Use network media prebuffering,使用网络媒体预缓冲,Използвай предварително буфериране на мрежови медии
+While playing Youtube videos there can be slowness at beginning of playback!,播放 YouTube 视频时，开头可能会出现卡顿。,При възпроизвеждане на Youtube видеа може да има забавяне в началото на възпроизвеждането!
+Add media folder,添加媒体文件夹,Добави медийна папка
+Abkhaz,阿布哈兹语,Абхазки
+Afar,阿法尔语,Афарски
+Afrikaans,南非荷兰语,Африканс
+Akan,阿肯语,Акан
+Albanian,阿尔巴尼亚语,Албански
+Amharic,阿姆哈拉语,Амхарски
+Arabic,阿拉伯语,Арабски
+Aragonese,阿拉贡语,Арагонски
+Armenian,亚美尼亚语,Арменски
+Assamese,阿萨姆语,Асамски
+Auto,自动,Автоматично
+Avaric,阿瓦尔语,Аварски
+Avestan,阿维斯陀语,Авестийски
+Aymara,艾马拉语,Аймара
+Azerbaijani,阿塞拜疆语,Азербайджански
+Bambara,班巴拉语,Бамбара
+Bashkir,巴什基尔语,Башкирски
+Basque,巴斯克语,Баски
+Belarusian,白俄罗斯语,Беларуски
+Bengali,孟加拉语,Бенгалски
+Bihari,比哈尔语,Бихарски
+Bislama,比斯拉马语,Бислама
+Bosnian,波斯尼亚语,Босненски
+Breton,布列塔尼语,Бретонски
+Bulgarian,保加利亚语,Български
+Burmese,缅甸语,Бирмански
+Catalan,加泰罗尼亚语,Каталонски
+Chamorro,查莫罗语,Чаморо
+Chechen,车臣语,Чеченски
+Chichewa,齐切瓦语,Чичева
+Chinese,中文,Китайски
+Chuvash,楚瓦什语,Чувашки
+Cornish,康沃尔语,Корнуолски
+Corsican,科西嘉语,Корсикански
+Cree,克里语,Кри
+Croatian,克罗地亚语,Хърватски
+Czech,捷克语,Чешки
+Danish,丹麦语,Датски
+Divehi,迪维希语,Дивехи
+Dutch,荷兰语,Холандски
+Dzongkha,宗喀语,Дзонгкха
+English,英语,Английски
+Esperanto,世界语,Есперанто
+Estonian,爱沙尼亚语,Естонски
+Ewe,埃维语,Еве
+Faroese,法罗语,Фарьорски
+Fijian,斐济语,Фиджийски
+Finnish,芬兰语,Фински
+French,法语,Френски
+Fula,富拉语,Фула
+Gaelic,盖尔语,Галски
+Galician,加利西亚语,Галисийски
+Ganda,干达语,Ганда
+Georgian,格鲁吉亚语,Грузински
+German,德语,Немски
+Greek,希腊语,Гръцки
+Guaraní,瓜拉尼语,Гуарани
+Gujarati,古吉拉特语,Гуджарати
+Haitian,海地克里奥尔语,Хаитянски
+Hausa,豪萨语,Хауса
+Hebrew,希伯来语,Иврит
+Herero,赫雷罗语,Хереро
+Hindi,印地语,Хинди
+Hiri Motu,希里莫图语,Хири мот�
+Hungarian,匈牙利语,Унгарски
+Icelandic,冰岛语,Исландски
+Ido,伊多语,Идо
+Igbo,伊博语,Игбо
+Indonesian,印度尼西亚语,Индонезийски
+Interlingua,国际语,Интерлингва
+Interlingue,西方国际语,Интерлингве
+Inuktitut,因纽特语,Инуктитут
+Inupiaq,依奴庇克语,Инупиак
+Irish,爱尔兰语,Ирландски
+Italian,意大利语,Италиански
+Japanese,日语,Японски
+Javanese,爪哇语,Явански
+Kalaallisut,格陵兰语,Гренландски
+Kannada,卡纳达语,Канада
+Kanuri,卡努里语,Канури
+Kashmiri,克什米尔语,Кашмирски
+Kazakh,哈萨克语,Казахски
+Khmer,高棉语,Кхмерски
+Kikuyu,基库尤语,Кикую
+Kinyarwanda,卢旺达语,Киняруанда
+Kirundi,基隆迪语,Кирунди
+Komi,科米语,Коми
+Kongo,刚果语,Конго
+Korean,韩语,Корейски
+Kurdish,库尔德语,Кюрдски
+Kwanyama,宽亚玛语,Кваняма
+Kyrgyz,吉尔吉斯语,Киргизки
+Lao,老挝语,Лаоски
+Latin,拉丁语,Латински
+Latvian,拉脱维亚语,Латвийски
+Limburgish,林堡语,Лимбургски
+Lingala,林加拉语,Лингала
+Lithuanian,立陶宛语,Литовски
+Luba-Katanga,卢巴-加丹加语,Луба-катанга
+Luxembourgish,卢森堡语,Люксембургски
+Macedonian,马其顿语,Македонски
+Malagasy,马达加斯加语,Малагасийски
+Malay,马来语,Малайски
+Malayalam,马拉雅拉姆语,Малаялам
+Maltese,马耳他语,Малтийски
+Manx,马恩语,Манкс
+Maori,毛利语,Маорски
+Marathi,马拉地语,Марати
+Marshallese,马绍尔语,Маршалски
+Mongolian,蒙古语,Монголски
+Nauru,瑙鲁语,Науру
+Navajo,纳瓦霍语,Навахо
+Ndonga,恩敦加语,Ндонга
+Nepali,尼泊尔语,Непалски
+Northern Ndebele,北恩德贝勒语,Северен ндебеле
+Northern Sami,北萨米语,Северносаамски
+Norwegian,挪威语,Норвежки
+Norwegian Bokmål,书面挪威语,Норвежки букмол
+Norwegian Nynorsk,新挪威语,Норвежки нюнорск
+Nuosu,彝语,Нуосу
+Occitan,奥克语,Окситански
+Ojibwe,奥杰布瓦语,Оджибве
+Old Church Slavonic,古教会斯拉夫语,Старобългарски
+Oriya,奥里亚语,Ория
+Oromo,奥罗莫语,Оромо
+Ossetian,奥塞梯语,Осетински
+Pali,巴利语,Пали
+Panjabi,旁遮普语,Пенджабски
+Pashto,普什图语,Пущу
+Persian,波斯语,Персийски
+Polish,波兰语,Полски
+Portuguese,葡萄牙语,Португалски
+Portuguese (BR),葡萄牙语（巴西）,Португалски (Бразилия)
+Quechua,克丘亚语,Кечуа
+Romanian,罗马尼亚语,Румънски
+Romansh,罗曼什语,Ретороманскки
+Russian,俄语,Руски
+Samoan,萨摩亚语,Самоански
+Sango,桑戈语,Санго
+Sanskrit,梵语,Санскрит
+Sardinian,撒丁语,Сардински
+Serbian,塞尔维亚语,Сръбски
+Shona,绍纳语,Шона
+Sindhi,信德语,Синдхи
+Sinhala,僧伽罗语,Синхалски
+Slovak,斯洛伐克语,Словашки
+Slovene,斯洛文尼亚语,Словенски
+Somali,索马里语,Сомалийски
+Southern Ndebele,南恩德贝勒语,Южен ндебеле
+Southern Sotho,南索托语,Южен сото
+Spanish,西班牙语,Испански
+Sundanese,巽他语,Сундански
+Swahili,斯瓦希里语,Суахили
+Swati,斯瓦特语,Свати
+Swedish,瑞典语,Шведски
+Tagalog,他加禄语,Тагалог
+Tahitian,塔希提语,Таитянски
+Tajik,塔吉克语,Таджикски
+Tamil,泰米尔语,Тамилски
+Tatar,鞑靼语,Татарски
+Telugu,泰卢固语,Телугу
+Thai,泰语,Тайландски
+Tibetan Standard,藏语,Тибетски
+Tigrinya,提格雷尼亚语,Тигриня
+Tonga,汤加语,Тонга
+Tsonga,聪加语,Цонга
+Tswana,茨瓦纳语,Тсвана
+Turkish,土耳其语,Турски
+Turkmen,土库曼语,Туркменски
+Twi,契维语,Туи
+Ukrainian,乌克兰语,Украински
+Urdu,乌尔都语,Урду
+Uyghur,维吾尔语,Уйгурски
+Uzbek,乌兹别克语,Узбекски
+Venda,文达语,Венда
+Vietnamese,越南语,Виетнамски
+Volapük,沃拉普克语,Волапюк
+Walloon,瓦隆语,Валонски
+Welsh,威尔士语,Уелски
+Western Frisian,西弗里西亚语,Западнофризийски
+Wolof,沃洛夫语,Волоф
+Xhosa,科萨语,Кхоса
+Yiddish,意第绪语,Идиш
+Yoruba,约鲁巴语,Йоруба
+Zhuang,壮语,Джуан
+Zulu,祖鲁语,Зулу
+File manager,文件管理器,Файлов мениджър
+Library,库,Библиотека
+Open media file,打开媒体文件,Отвори медиен файл
+Open network stream,打开网络流,Отвори мрежов поток
+Recent files,最近文件,Последни файлове
+Settings,设置,Настройки
+Audio stream #{0},音频流 #{0},Аудио поток #{0}
+Bitrate: ,比特率：,Битрейт: 
+Codec: ,编解码器：,Кодек: 
+Decoded bits per sample: ,每采样解码位数：,Декодирани битове: 
+Frame rate: ,帧率：,Честота на кадрите: 
+Language: ,语言：,Език: 
+Network stream: ,网络流：,Мрежов поток: 
+Sample rate: ,采样率：,Честота на дискретизация: 
+Subtitle stream #{0},字幕流 #{0},Субтитри поток #{0}
+Upscaled resolution: ,放大后分辨率：,Увеличена разделителна способност: 
+Video resolution: ,视频分辨率：,Видео разделителна способност: 
+Video stream #{0},视频流 #{0},Видео поток #{0}
+0.25x,0.25x,0.25x
+0.5x,0.5x,0.5x
+0.75x,0.75x,0.75x
+1:01,1:01,1:01
+1.25x,1.25x,1.25x
+1.5x,1.5x,1.5x
+16:09,16:09,16:09
+1.75x,1.75x,1.75x
+1.85:1,1.85:1,1.85:1
+2.21:1,2.21:1,2.21:1
+2.35:1,2.35:1,2.35:1
+2.39:1,2.39:1,2.39:1
+2x,2x,2x
+3x,3x,3x
+4:03,4:03,4:03
+4x,4x,4x
+5:03,5:03,5:03
+5:04,5:04,5:04
+8x,8x,8x
+Add external audio stream,添加外部音频流,Добави външен аудио поток
+Allow minimal UI view mode,启用精简界面模式,Позволи минимален режим на интерфейса
+Audio effects,音频效果,Аудио ефекти
+Cast media,投放媒体,Излъчване на медия
+Cast To,投放到,Излъчване към
+Codec information,编解码器信息,Кодек информация
+Crop,剪切,Изрежи
+Decode mode,解码模式,Режим на декодиране
+Default,默认,По подразбиране
+Delete button,删除按钮,Бутон за изтриване
+Disconnect,断开连接,Прекъсни връзката
+Exit,退出,Изход
+Force Dolby Vision Profile,强制 Dolby Vision 配置文件,Принудителен Dolby Vision профил
+HDR,HDR,HDR
+HW,HW,HW
+HW(FFmpeg),HW(FFmpeg),Хардуерно (FFmpeg)
+HW(Microsoft),HW(Microsoft),Хардуерно (Microsoft)
+Intel VSR               I ,Intel VSR               I ,Intel VSR               I 
+Video,视频,Видео
+Mono,单声道,Моно
+More,更多,Повече
+Mouse hover select,鼠标悬停选择,Избиране с задържане на курсора
+Move down,下移,Премести надолу
+Move left,左移,Премести наляво
+Move right,右移,Премести надясно
+Move up,上移,Премести нагоре
+On-Screen Clock,屏幕时钟,Екранен часовник
+Open playlist,打开播放列表,Отвори плейлист
+Open subtitles,打开字幕,Отвори субтитри
+Passthrough,直通模式,Passthrough
+Playback speed,播放速度,Скорост на възпроизвеждане
+Reset rotation,重置旋转,Нулирай завъртането
+Reset zoom,重置缩放,Нулиране на мащаба
+Rotate,旋转,Завърти
+Rotate 180° left,向左旋转 180°,Завърти 180° наляво
+Rotate 180° right,向右旋转 180°,Завърти 180° надясно
+Rotate 90° left,向左旋转 90°,Завърти 90° наляво
+Rotate 90° right,向右旋转 90°,Завърти 90° надясно
+RTX HDR               H ,RTX HDR               H ,RTX HDR               H 
+RTX VSR                V ,RTX VSR                V ,RTX VSR                V 
+Select audio/subtitles,选择音频/字幕,Избери аудио/субтитри
+Show repeat(A-B) controls,显示 A‑B 重复控制,Показвай контролите за повторение(A-B)
+Side-by-Side,左右格式,Едно до друго
+Spherical 360° view,360° 球面视图,Сферичен 360° изглед
+Subtitle settings,字幕设置,Настройки на субтитри
+SW,软件模式,Софтуерно
+Top-bottom,上下格式,Горе-долу
+UI customization,界面自定义,Персонализиране на интерфейса
+Use system subtitle renderer,使用系统字幕渲染器,Използвай системния визуализатор на субтитри
+Vertical subtitle position correction,字幕垂直位置校正,Вертикална корекция на позицията на субтитрите
+Video effects,视频效果,Видео ефекти
+Video enhancements,视频增强,Видео подобрения
+Video format,视频格式,Видео формат
+Zoom,缩放,Мащабиране
+Zoom in,放大,Увеличи
+Zoom out,缩小,Намали
+Zoom to fill,缩放以填充,Мащабирай да запълване
+Background color:,背景颜色：,Фонов цвят:
+Background transparency:,背景透明度：,Прозрачност на фона:
+Change view,切换视图,Промени изглед
+Download subtitles from OpenSubtitles.org,从 OpenSubtitles.org 下载字幕,Изтегли субтитри от OpenSubtitles.org
+Encrypted file! Please enter a password!,加密文件！请输入密码！,"Криптиран файл! Моля, въведете парола!"
+Enter url,输入网址,Въведете интернет адрес
+{0} is outside of the known folder locations(features like playing previous or next file in the folder are disabled). Would you like generating playlist from all media files around it?,{0} 不在已知文件夹位置内（播放文件夹中上一个或下一个文件等功能已禁用）。您想从其周围的所有媒体文件生成播放列表吗？,{0} е извън известните папки (функции като пускане на предишен или следващ файл в папката са деактивирани). Искате ли да генерирате плейлиста от всички медийни файлове около него?
+Hide playlists,隐藏播放列表,Скриване на плейлисти
+Open subtitle ... ,打开字幕…,Отвори субтитри ... 
+Show playlists,显示播放列表,Показване на плейлисти
+Subtitle color:,字幕颜色：,Цвят на субтитрите:
+Subtitle delay(miliseconds) ,字幕延迟（毫秒）：,Забавяне на субтитрите (милисекунди) 
+Subtitle font: ,字幕字体：,Шрифт на субтитрите: 
+Subtitles,字幕,Субтитри
+Subtitle size (percents): ,字幕大小（百分比）：,Размер на субтитрите (проценти): 
+Subtitle track:,字幕轨道,Субтитри поток
+Text color transparency:,文字颜色透明度：,Прозрачност на цвета на текста:
+"Access denied!
+""{0}"" cannot be created in ""{1}""","访问被拒绝！
+无法在“{1}”中创建“{0}”。","Достъпът е отказан!
+""{0}"" не може да се създаде в ""{1}"""
+"Access denied!
+""{0}"" cannot be moved!
+Would you like to copy it instead?","访问被拒绝！
+“{0}”无法移动。
+要改为复制它吗？","Достъпът е отказан!
+""{0}"" не може да бъде преместен!
+Искате ли да го копирате вместо това?"
+The requested audio playback device is currently used by another application! Would you like to restart the playback with no sound?,请求的音频播放设备正被其他应用使用。要在无声模式下重新开始播放吗？,Заявеното аудио устройство за възпроизвеждане в момента се използва от друго приложение! Искате ли да рестартирате възпроизвеждането без звук?
+Backup will be created and the local data from Energy Media Player will be imported. The application will automatically close once the import is successfully completed.,将创建备份并导入 Energy Media Player 的本地数据。导入成功后应用将自动关闭。,Ще бъде създадена резервно копие и локалните данни от Energy Media Player ще бъдат импортирани. Приложението автоматично ще се затвори след успешно завършване на импортирането.
+Backup restored successfully! The application will now close.,备份已成功恢复。应用将立即关闭。,Резервното копие е възстановено успешно! Приложението ще се затвори.
+This device can't play video in background!,{0} 文件的媒体播放限制为 {1} 分钟。要播放完整文件，您需要解锁专业版功能。,Това устройство не може да възпроизвежда видео на заден план!
+"Media playback of {0} files is restricted to {1} minutes! 
+To play the full file you need to unlock Pro-only features!","{0} 文件的媒体播放限制为 {1} 分钟！
+
+播放前需要从云端完全下载媒体！ 
+За да възпроизведете целия файл, трябва да отключите Pro функциите!","Възпроизвеждането на медийни файлове от {0} е ограничено до {1} минути! 
+За да възпроизведете целия файл, трябва да отключите Pro функциите!"
+"Items in ""Currently playing"" cannot be renamed!",“正在播放”中的项目无法重命名。,"Елементи в ""Текущо възпроизвеждани"" не могат да бъдат преименувани!"
+Local data is prepared for transfer to Energy Media Player for XBOX!,本地数据已准备好传输到 Energy Media Player for XBOX。,Локалните данни са подготвени за прехвърляне към Energy Media Player за XBOX!
+"Dolby Vision decoding requires Dolby Vision and HEVC Extensions. They can be installed from the ""Required codec extensions(free) for Dolby Vision decoding"" section",Dolby Vision 解码需要 Dolby Vision 和 HEVC 扩展。您可以在“Dolby Vision 解码所需的免费编解码器扩展”部分进行安装。,"Dolby Vision декодирането изисква Dolby Vision и HEVC разширения. Те могат да бъдат инсталирани от секцията ""Необходими кодек разширения(безплантни) за Dolby Vision декодиране"""
+This file is not fully downloaded. Would you like to enable automatic streaming for Dropbox on-demand files?,此文件尚未完全下载。要为 Dropbox 按需文件启用自动流式播放吗？,Този файл не е изтеглен изцяло. Искате ли да активирате автоматично стриймване за Dropbox файлове?
+"Dropbox is in preview mode! 
+ Video files are limited to 10 minutes of play! 
+Audio files are limited to 2 minutes of play! 
+Unlock Pro features to use full Dropbox integration!",Dropbox 处于预览模式！视频文件最多可播放 10 分钟，音频文件最多可播放 2 分钟。购买专业版以解除限制。,"Dropbox е в режим на преглед!
+Видео файловете са ограничени до 10 минути възпроизвеждане!
+Аудио файловете са ограничени до 2 минути възпроизвеждане!
+Купете Pro версията, за да премахнете ограниченията!"
+"Dropbox is in preview mode! 
+Please, sign in your account in the next screen! 
+
+After you are logged in your Dropbox account you can access and play all of your Dropbox cloud media files in the file manager view!",Dropbox 处于预览模式。请在下一屏登录您的账户。登录后，您可以在文件管理器中访问并播放所有 Dropbox 云端媒体文件。,"Dropbox е в режим на преглед! 
+Моля, влезте във вашия акаунт на следващия екран! 
+
+След като влезете във вашия Dropbox акаунт, можете да достъпвате и възпроизвеждате всички ваши Dropbox облачни медийни файлове във файловия мениджър!"
+Encrypted files playback is forbidden! To enable it go to Settings->Encryption,"禁止播放加密文件！要启用它，请转到""设置""->""加密""","Възпроизвеждането на шифровани файлове е забранено! За да го активирате, отидете в Настройки->Шифроване"
+Failed to create backup!,创建备份失败！,Неуспешно създаване на резервно копие!
+Failed to import local data!,本地数据导入失败！,Неуспешно импортиране на локални данни!
+Failed to prepare data for transfer!,准备传输数据失败！,Неуспешна подготовка на данни за прехвърляне!
+Failed to recognize the command!,无法识别该命令！,Неуспешно разпознаване на командата!
+Failed to restore backup!,备份恢复失败！,Неуспешно възстановяване на резервно копие!
+Failed to save the subtitle file in {0},无法将字幕文件保存到 {0}！,Неуспешно запазване на файла със субтитри в {0}
+The file '{0}' is not locally available! Would you like to download it from {1} now?,文件“{0}”未在本地可用！要立即从 {1} 下载吗？,Файлът '{0}' не е достъпен локално! Искате ли да го изтеглите от {1} сега?
+"In order to give full access rights to drive {0}, please select it in the next folder browse dialog.",要授予对 {0} 驱动器的完全访问权限，请在接下来的文件夹选择对话框中选中它。,"За да дадете пълни права за достъп до диск {0}, моля изберете го в следващия диалог за преглед на папки."
+"Gpu driver crashed with out of memory and cannot be recovered. Do you want to install ""Energy media player for XBOX"" which has bigger memory limits and supports 4k HEVC playback in HDR and Dolby Vision modes, but does not support background media playback?",GPU 驱动因内存耗尽而崩溃且无法恢复。要安装 “Energy media player for XBOX” 吗？它具有更高的内存限制，并支持 HDR 和 Dolby Vision 模式下的 4K HEVC 播放，但不支持后台播放。,"Графичният драйвър се срина поради изчерпана памет и не може да бъде възстановен. Искате ли да инсталирате ""Energy media player for XBOX"", който има по-големи лимити на паметта и поддръжка на 4k HEVC възпроизвеждане в HDR и Dolby Vision режими, но не поддържа възпроизвеждане на медия на заден план?"
+"Out of memory! Gpu driver crashed and cannot be recovered. Do you want to open the media in ""Energy media player for XBOX"" instead?",内存不足！GPU 驱动已崩溃且无法恢复。要改为在 “Energy media player for XBOX” 中打开媒体吗？,"Няма свободна памет! Графичният драйвер се срина и не може да бъде възстановен. Искате ли да отворите медията в ""Energy media player for XBOX"" вместо това?"
+Local data import completed successfully! The application will now close.,本地数据导入成功！应用将立即关闭。,Импортирането на локални данни завърши успешно! Приложението ще се затвори.
+Not implemented action!,此操作尚未实现！,Неимплементирано действие!
+For playing OneDrive links you have to be logged in your account! OneDrive is disabled!,要播放 OneDrive 链接，您必须先登录账户。OneDrive 已被禁用。,За възпроизвеждане на OneDrive линкове трябва да влезете във вашия акаунт! OneDrive е деактивиран!
+"OneDrive is in preview mode! 
+ Video files are limited to 10 minutes of play! 
+Audio files are limited to 2 minutes of play! 
+Unlock Pro features to use full OneDrive integration!",OneDrive 处于预览模式！视频文件最多可播放 10 分钟，音频文件最多可播放 2 分钟。购买专业版以解除限制。,"OneDrive е в режим на преглед!
+Видео файловете са ограничени до 10 минути възпроизвеждане!
+Аудио файловете са ограничени до 2 минути възпроизвеждане!
+Купете Pro версията, за да премахнете ограниченията!"
+"OneDrive is in preview mode! 
+Please, sign in your account in the next screen! 
+
+After you are logged in your OneDrive account you can access and play all of your OneDrive cloud media files in the file manager view!",OneDrive 处于预览模式。请在下一屏登录您的账户。登录后，您可以在文件管理器中访问并播放所有 OneDrive 云端媒体文件。,"OneDrive е в режим на преглед! 
+Моля, влезте във вашия акаунт на следващия екран! 
+
+След като влезете във вашия OneDrive акаунт, можете да достъпвате и възпроизвеждате всички ваши OneDrive облачни медийни файлове във файловия мениджър!"
+"Do you want to open the media in ""Energy media player for XBOX""?",要在 “Energy media player for XBOX” 中打开此媒体吗？,"Искате ли да отворите медията в ""Energy media player for XBOX""?"
+Do you want to restore last saved backup?,要恢复上次保存的备份吗？,Искате ли да възстановите последното запазено резервно копие?
+"For security reasons this application cannot access the internal device storage!
+
+Would you like to give permission to access a folder now?",出于安全原因，本应用无法访问设备的内部存储。现在要授予文件夹访问权限吗？,"От съображения за сигурност това приложение не може да получи достъп до вътрешното хранилище на устройството!
+
+Искате ли да дадете разрешение за достъп до папка сега?"
+Do you want to start the playback from {0:D2}:{1:D2}:{2:D2}?,是否从 {0:D2}:{1:D2}:{2:D2} 开始播放？,Искате ли да започнете възпроизвеждането от {0:D2}:{1:D2}:{2:D2}?
+About Energy Media Player,关于Energy Media Player,За Energy Media Player
+App Invocation,应用程序调用,Стартиране на приложението
+Dropbox settings,Dropbox设置,Dropbox настройки
+Encryption,加密,Криптиране
+File manager settings,文件管理器设置,Настройки на файловия мениджър
+General settings,常规设置,Общи настройки
+Notifications,通知,Известия
+OneDrive settings,OneDrive设置,OneDrive настройки
+Subtitle settings,字幕设置,Настройки на субтитри
+User interface,用户界面,Потребителски интерфейс
+Video/Audio settings,视频/音频设置,Видео/Аудио настройки
+Show notification for finishing file operations,显示文件加密/解密通知,Показвай уведомление за завършване на файлови операции
+Show notification on encrypting/decrypting file,显示文件操作完成通知,Показвай уведомление при криптиране/декриптиране на файл
+Show now playing notifications,显示正在播放通知,Показвай уведомления за текущо възпроизвеждане
+Silent notifications,静默通知,Тихи уведомления
+"File management operations(Copy, Cut, Rename, etc.)",文件管理操作（复制、剪切、重命名等）,"Операции за управление на файлове (Копиране, Изрязване, Преименуване и др.)"
+Local OneDrive folder,本地 OneDrive 文件夹,Локална OneDrive папка
+OneDrive sign out,退出 OneDrive,Излизане от OneDrive
+Some OneDrive features are disabled:,部分 OneDrive 功能已被禁用：,Някои функции на OneDrive са деактивирани:
+Use OneDrive,使用 OneDrive,Използвай OneDrive
+Download completed,下载完成,Изтеглянето завърши
+Error occurred,发生错误,Възникна грешка
+New file: {0},新文件：{0},Нов файл: {0}
+Starting...,开始中...,Започване...
+Upload completed,上传完成,Качването завърши
+Advanced search,高级搜索,Разширено търсене
+OpenSubtitles.org subtitles,OpenSubtitles.org 字幕,Субтитри от OpenSubtitles.org
+Info,信息,Информация
+Save in file folder,保存到文件文件夹,Запазване в папката на файла
+Save to selected folder,保存到所选文件夹,Запазване в избрана папка
+Search:,搜索：,Търсене:
+Add to playlist,添加到播放列表,Добави към плейлист
+Add file,添加文件,Добави файл
+Add network stream,添加网络流,Добави мрежов поток
+Add Youtube playlist,添加 YouTube 播放列表,Добави Youtube плейлист
+Change name,重命名,Промени име
+Clear playlist,清空播放列表,Изчисти плейлист
+Delete playlist,删除播放列表,Изтрий плейлист
+Duration(ascending),时长（升序）,Продължителност(възходящо)
+Duration(descending),时长（降序）,Продължителност(низходящо)
+Edit selected items title,编辑选中项标题,Промени заглавието на избраните
+Export playlist,导出播放列表,Експортирай плейлист
+Forget playlist,忘记播放列表,Забрави плейлист
+Load from m3u(8) playlist,从 m3u(8) 播放列表加载,Зареди от m3u(8) плейлист
+Name(ascending),名称（升序）,Име(възходящо)
+Name(descending),名称（降序）,Име(низходящо)
+New playlist,新建播放列表,Нов плейлист
+Randomize,随机排序,Разбъркай
+Remove broken media links,移除损坏的媒体链接,Премахни счупени интернет връзки
+Remove duplicates,移除重复项,Премахни дубликати
+Remove not playable Youtube videos,移除无法播放的 YouTube 视频,Премахни невъзпроизводими Youtube видеа
+Remove selected,移除选中项,Премахни избраните
+Save As,另存为,Запази като
+Change playlist name,更改播放列表名称,Промяна на име на плейлиста
+Enter m3u(8) url:,输入 m3u(8) 网址：,Въведете m3u(8) адрес:
+Enter url of network stream,输入网络流网址,Въведете адрес на мрежов поток
+Enter URL or id of Youtube playlist,输入 Youtube 播放列表的 URL 或 ID,Въведете интернет адрес или идентификатор на Youtube плейлиста
+No items found,未找到项目,Не са намерени елементи
+Playlist: ,播放列表：,Плейлист: 
+"Forbidden characters: / \ : ? * "" < > |","禁用字符：/ \ : ? * "" < > |","Забранени символи: / \ : ? * "" < > |"
+Show extension,显示扩展名,Показване на разширението
+System renderer uses the global windows subtitles settings: ,系统渲染器使用 Windows 全局字幕设置： ,Системният визуализатор използва глобалните настройки за субтитри в Windows: 
+Additional subtitle duration,附加字幕持续时间,Допълнителна продължителност на субтитрите
+Automatically load external subtitles,自动加载外部字幕,Автоматично зареждане на външни субтитри
+Auto-select subtitles on media playback,在媒体播放时自动选择字幕,Автоматичен избор на субтитри при възпроизвеждане
+Close search window when downloading subtitles,下载字幕时关闭搜索窗口,Затваряне на прозореца за търсене при изтегляне на субтитри
+Subtitle delay (milliseconds),字幕延迟（毫秒）,Закъснение на субтитрите (милисекунди)
+Allow subtitles download from OpenSubtitles.org,启用从 OpenSubtitles.org 下载字幕,Позволи изтегляне на субтитри от OpenSubtitles.org
+Search subtitles by exact file name,按精确文件名搜索字幕,Търсене на субтитри по точно име на файл
+Subtitle size (percent),字幕大小（百分比）,Размер на субтитрите (процент)
+Minimal subtitle duration,最小字幕持续时间,Минимална продължителност на субтитрите
+Prefer external subtitles for automatic selection,自动选择时首选外部字幕,Предпочитай външни субтитри при автоматичен избор
+Preferred subtitle download mode:,首选字幕下载模式：,Предпочитан режим на изтегляне на субтитри:
+Preferred subtitle language:,首选字幕语言：,Предпочитан език на субтитрите:
+Prevent subtitle overlap,防止字幕重叠,Предотвратяване на припокриването на субтитри
+Rename downloaded subtitles to match video file name,重命名下载的字幕以匹配视频文件名,Преименувай изтеглените субтитри в съответствие с името на видео файла
+Shadow outline thickness,阴影轮廓厚度,Дебелина на контура на сянката
+Shadow width,阴影宽度,Ширина на сянката
+Smart subtitle lookup,智能字幕查找,Интелигентно търсене на субтитри
+Subtitle background:,字幕背景：,Фон на субтитрите:
+Use subtitle shadows,使用字幕阴影,Използване на сенки за субтитри
+Add folder,添加文件夹,Добави папка
+Add playlist,添加播放列表,Добави плейлист
+Audio,音频,Аудио
+Clear,清除,Изчисти
+Copy selected items,复制所选项,Копирай избраните елементи
+Delete,删除,Изтрий
+Edit,编辑,Редактирай
+Enter Picture-in-Picture mode,进入画中画,Влез в режим картина в картината
+Go to parent directory,转到父目录,Отиди в родителската директория
+Home,主页,Начало
+Lock,锁定,Заключи
+Open folder location,打开文件夹位置,Отвори местоположението на папката
+Open in new window,在新窗口中打开,Отвори в нов прозорец
+Play mode,播放模式,Режим на възпроизвеждане
+Play next,播放下一个,Възпроизведи следващ
+Play previous,播放上一个,Възпроизведи предишен
+Playlist,播放列表,Плейлист
+Playlist settings,播放列表设置,Настройки на плейлист
+Repeat,重复,Повтори
+Rewind to 0:00:00,倒回到开始,Превърти до 0:00:00
+Save,保存,Запази
+Selection,选择,Избор
+Set main as preview,将主界面设为预览,Задай главен като преглед
+Skip backward,向后跳过,Прескочи назад
+Skip forward,向前跳过,Прескочи напред
+Sort,排序,Сортирай
+Switch to minimal UI mode,切换到最小界面,Превключи към минимален режим
+Up,向上,Нагоре
+Video decode mode,视频解码模式,Режим на видео декодиране
+Allow minimal UI mode,允许最小界面模式,Разрешаване на минимален потребителски интерфейс
+Don't show anymore,不再显示,Не показвай отново
+Close,关闭,Затвори
+Comment:,评论：,Коментар:
+Delete original file on successful decryption,解密成功后删除原文件,Изтрий оригиналния файл при успешно декриптиране
+Delete original file on successful encryption,加密成功后删除原文件,Изтрий оригиналния файл при успешно криптиране
+Encryption/decryption of media files,媒体文件的加密/解密,Криптиране/декриптиране на медийни файлове
+Encrypted files playback,加密文件播放,Възпроизвеждане на криптирани файлове
+Prefer embedding passwords during encryption,加密时优先嵌入密码,Предпочитай вграждане на пароли по време на криптиране
+Prefer embedding the original file name during encryption,加密时优先嵌入原始文件名,Предпочитай вграждането на оригиналното име на файл по време на криптиране
+Show encryption options in integrated file manager,在集成文件管理器中显示加密选项,Показване на опциите за криптиране в интегрирания файлов мениджър
+Show the original file type in the encrypted file name,在加密文件名中显示原始文件类型,Покажи оригиналния тип файл в името на шифрования файл
+Use the original file's type (Playback will be possible only with Play Encrypted option in the integrated file manager),使用原始文件类型（仅在集成文件管理器中使用播放加密选项才能播放）,Използвай типа на оригиналния файл (Възпроизвеждането ще бъде възможно само с опцията Възпроизведи криптиран в интегрирания файлов мениджър)
+Decrypted file name,解密后的文件名,Име на декриптиран файл
+Local Dropbox folder,本地 Dropbox 文件夹,Локална папка на Dropbox
+Some Dropbox features are disabled:,某些 Dropbox 功能已禁用：,Някои Dropbox функции са деактивирани:
+Use Dropbox,使用 Dropbox,Използвай Dropbox
+Dropbox sign out,退出 Dropbox,Излизане от Dropbox
+Embed original filename in the encrypted file,在加密文件中嵌入原始文件名,Вграждане на оригиналното име на файла в криптирания файл
+Embed the password in the encrypted file,在加密文件中嵌入密码,Вграждане на паролата в криптирания файл
+Encrypted file name,加密后的文件名,Име на криптиран файл
+Enable adding audio files as external audio streams,启用将音频文件添加为外部音频流,Активирай добавянето на аудио файлове като външни аудио потоци
+Some file manager features are disabled:,某些文件管理器功能已禁用：,Някои функции на файловия мениджър са деактивирани:
+Open media files in preview,在预览中打开媒体文件,Отваряне на медийни файлове в преглед
+Show media servers,显示媒体服务器,Показвай медийни сървъри
+Multi-window file explorer,多窗口文件浏览器,Много-прозоречен файлов експлорър
+Enable multiselection,启用多选,Активирай множествен избор
+Show Musics folder,显示音乐文件夹,Показвай папката Музика
+Enable open actions for non media files,启用非媒体文件的打开操作,Активирай действия за отваряне на немедийни файлове
+Default search in subdirectories,默认在子目录中搜索,Търсене по подразбиране в поддиректориите
+Show app's local folder,显示应用的本地文件夹,Показвай локалната папка на приложението
+Show button for adding new media folder in file explorer,在文件浏览器中显示添加新媒体文件夹的按钮,Показвай бутон за добавяне на нова медийна папка във файловия експлорър
+Show Videos folder,显示视频文件夹,Показвай папката Видео
+Clear thumbnail cache,清除缩略图缓存,Изчистване на кеша на файловите миниатюрите
+"Enable file management operations(Copy, Cut, Rename, etc.)",启用文件管理操作（复制、剪切、重命名等）,"Активиране на операции за управление на файлове (копиране, изрязване, преименуване и др.)"
+Automatically stream on-demand files,自动流式传输按需文件,Автоматично стриймване на файлове при поискване
+Prefer movie covers for thumbnails,优先使用电影封面作为缩略图,Предпочитай филмови корици за файловите миниатюри
+Show all files,显示所有文件,Показване на всички файлове
+Show image files,显示图像文件,Показване на изображения
+Show music files,显示音乐文件,Показване на музикални файлове
+Show subtitle files,显示字幕文件,Показване на субтитри
+Show video files,显示视频文件,Показване на видео файлове
+Thumbnail generation mode,缩略图生成模式,Режим на генериране на файлови миниатюри
+"Access denied! Cannot delete ""{0}""!","访问被拒绝！无法删除 ""{0}""！","Достъпът е отказан! Не може да се изтрие ""{0}""!"
+Access denied! Cannot delete the item!,访问被拒绝！无法删除该项目！,Достъпът е отказан! Елементът не може да бъде изтрит!
+"Application is reset to default. Please, restart!",应用程序已重置为默认设置。请重新启动！,"Приложението е нулирано до настройките по подразбиране. Моля, рестартирайте!"
+{0} broken links were removed!,已删除 {0} 个损坏的链接！,{0} неработещи връзки бяха премахнати!
+Cancel,取消,Отказ
+Cannot create the playlist!,无法创建播放列表！,Не може да се създаде плейлистът!
+"Cannot load ""{0}""","无法加载 ""{0}""","Не може да се зареди ""{0}"""
+Cannot open the playlist!,无法打开播放列表！,Не може да се отвори плейлистът!
+Cannot access the file!,无法访问文件！,Не може да се достъпи файлът!
+Cannot access the removable drive!,无法访问可移动驱动器！,Не може да се достъпи преносимото устройство!
+Cannot decrypt the file. Unrecognized encryption!,无法解密文件。无法识别的加密！,Не може да се декриптира файлът. Неразпознато криптиране!
+Cannot extract videos for the playlist!,无法为播放列表提取视频！,Не могат да се извлекат видеа за плейлиста!
+Cannot load the playlist!,无法加载播放列表！,Не може да се зареди плейлистът!
+Cannot find suitable application for the file type!,找不到适合该文件类型的应用程序！,Не може да се намери подходящо приложение за типа файл!
+"Cannot open file: ""{0}""","无法打开文件：""{0}""","Не може да се отвори файл: ""{0}"""
+Cannot open media!,无法打开媒体！,Не може да се отвори медията!
+Failed to load the file for opening in new app window!,无法加载文件以在新应用窗口中打开！,Неуспешно зареждане на файла за отваряне в нов прозорец на приложението!
+Cannot save the playlist!,无法保存播放列表！,Не може да се запази плейлистът!
+Playback was stopped because the connection to the network stream was lost!,由于与网络流的连接丢失，播放已停止！,"Възпроизвеждането беше спряно, защото връзката към мрежовия поток беше загубена!"
+{0} duplicates were removed!,已删除 {0} 个重复项！,{0} дубликата бяха премахнати!
+Encrypted files playback is forbidden! To enable it go to Settings-&gt;Encryption,加密文件的播放已被禁用！要启用此功能，请前往 设置→加密,"Възпроизвеждането на криптирани файлове е забранено! За да го активирате, отидете в Настройки->Криптиране"
+Error!,错误！,Грешка!
+Error while extracting media from the playlist!,从播放列表提取媒体时出错！,Грешка при извличане на медия от плейлиста!
+"""%w"" failed to load the previous %d times! Would you like to try load it again?",“%w” 在之前的 %d 次尝试中均未能加载。要再次尝试加载吗？,"""%w"" не успя да се зареди предишните %d пъти! Искате ли да опитате да го заредите отново?"
+Failed to delete file!,无法删除文件！,Неуспешно изтриване на файл!
+Failed to load the file for decryption!,无法加载文件进行解密！,Неуспешно зареждане на файла за декриптиране!
+Failed to load the file for encryption!,无法加载文件进行加密！,Неуспешно зареждане на файла за криптиране!
+Failed to load the parent folder for the file!,无法加载文件的父文件夹！,Неуспешно зареждане на родителската папка на файла!
+Failed to retrieve subtitles from opensubtitles.org,无法从 opensubtitles.org 检索字幕,Неуспешно извличане на субтитри от opensubtitles.org
+"Failed to sign out from Dropbox! Please, try again!",无法从 Dropbox 退出！请重试！,"Неуспешно излизане от Dropbox! Моля, опитайте отново!"
+"Failed to sign out from OneDrive! Please, try again!",无法从 OneDrive 退出！请重试！,"Неуспешно излизане от OneDrive! Моля, опитайте отново!"
+Windows HDR cannot be changed! There was error while connecting with HDR Controller!,无法更改 Windows HDR！连接 HDR 控制器时出错,Windows HDR не може да бъде променен! Възникна грешка при свързването с HDR Controller!
+"Failed to copy ""{0}""!","无法复制 ""{0}""！","Неуспешно копиране на ""{0}""!"
+"Failed to create folder in ""{0}""!","无法在 ""{0}"" 中创建文件夹","Неуспешно създаване на папка в ""{0}""!"
+Failed to delete the theme!,无法删除主题！,Неуспешно изтриване на темата!
+Failed to download subtitles!,无法下载字幕！,Неуспешно изтегляне на субтитри!
+Failed to export the playlist!,无法导出播放列表！,Неуспешен експорт на плейлиста!
+Failed to unlock the Pro features of Energy Media Player!,无法解锁 Energy Media Player 的专业版功能！,Неуспешно отключване на Pro функциите на Energy Media Player!
+Error accessing the folder!,访问文件夹时出错！,Грешка при достъп до папката!
+Folder already exists!,文件夹已存在！,Папката вече съществува!
+Full access rights to the drive has been granted!,已授予对驱动器的完全访问权限！,Пълни права за достъп до диска са предоставени!
+Windows HDR cannot be changed! HDR Controller is not running!,无法更改 Windows HDR！HDR 控制器未运行！,Windows HDR не може да бъде променен! HDR Controller не е активен!
+Cannot open the media server! Would you like to unpin and pin the server again?,无法打开媒体服务器！您想取消固定并重新固定服务器吗？,Не може да се отвори медийният сървър! Искате ли да го откачите и закачите отново?
+No broken links were found!,未找到损坏的链接！,Не са намерени неработещи връзки!
+No duplicates found!,未找到重复项！,Не са намерени дубликати!
+No files to paste!,没有要粘贴的文件！,Няма файлове за поставяне!
+No item selected!,未选择项目！,Няма избран елемент!
+No subtitles found in the ZIP file!,压缩文件中没有字幕！,Няма субтитри в zip файла!
+OK,确定,ОК
+The playlist is successfully exported!,播放列表已成功导出！,Плейлистът е успешно експортиран!
+Failed to save the playlist!,播放列表保存失败！,Неуспешно запазване на плейлиста!
+"Please, select items for deletion!",请选择要删除的项目！,"Моля, изберете елементи за изтриване!"
+"Please, select the Dropbox local folder!",请选择 Dropbox 本地文件夹！,"Моля, изберете локалната Dropbox папка!"
+"Please, select the OneDrive local folder!",请选择 OneDrive 本地文件夹！,"Моля, изберете локалната OneDrive папка!"
+"Please, select the {0}'s local folder!",请选择 {0} 的本地文件夹！,"Моля, изберете локалната папка на {0}!"
+Theme successfully deleted!,主题已成功删除！,Темата е успешно изтрита!
+"Unexpected error has occurred! Please, try again!",发生意外错误！请重试！,"Възникна неочаквана грешка! Моля, опитайте отново!"
+The user was signed out from OneDrive!,用户已从 OneDrive 退出！,Потребителят беше oтписан от OneDrive!
+Windows HDR can be changed only with the HDR Controller app. Currently HDR Controller is not installed! Would you like to install it now!,仅可通过 HDR 控制器应用更改 Windows HDR。当前未安装 HDR 控制器！您想现在安装吗！,Windows HDR може да се променя само от HDR Controller приложението. В момента HDR Controller не е инсталиран! Желаете ли да го инсталирате сега!
+"You have selected wrong drive! Please, try again!",您选择了错误的驱动器！请重试！,"Избрали сте грешен диск! Моля, опитайте отново!"
+Wrong password!,密码错误！,Грешна парола!
+This Youtube video({0}) cannot be loaded!,此 YouTube 视频({0})无法加载！,Това Youtube видео({0}) не може да бъде заредено!
+No,否,Не
+Operation failed,操作失败,Операцията се провали
+Off,关,Изкл.
+On,开,Вкл.
+Password,密码,Парола
+"This device needs a free codec extension to be able to play AV1! 
+Would you like to open the installation page?",此设备需要免费的编解码器扩展才能播放 AV1。要打开安装页面吗？,"Това устройство се нуждае от безплатно кодеково разширение, за да може да възпроизвежда AV1! 
+Искате ли да отворите страницата за инсталация?"
+Do you want to add the selected items to the new playlist?,您要将所选项目添加到新播放列表吗？,Искате ли да добавите избраните елементи към новия плейлист?
+"This device needs a free codec extension({0}) to use Microsoft hardware acceleration! 
+Would you like to open the installation page?",此设备需要免费的编解码器扩展（{0}）才能使用 Microsoft 硬件加速。要打开安装页面吗？,"Това устройство се нуждае от безплатно кодек разширение({0}) за да използва Microsoft хардуерно ускорение! 
+Желаете ли да отворите страницата за инсталиране?"
+"Are you sure you want to delete ""{0}""?",确定要删除“{0}”吗？,"Сигурни ли сте, че искате да изтриете ""{0}""?"
+Are you sure you want to delete {0} files?,您确定要删除 {0} 个文件吗？,"Сигурни ли сте, че искате да изтриете {0} файла?"
+Are you sure you want to delete this playlist from the disk?,您确定要从磁盘中删除此播放列表吗？,"Сигурни ли сте, че искате да изтриете този плейлист от диска?"
+"Are you sure you want to delete theme: ""{0}""?",确定要删除主题“{0}”吗？,"Сигурни ли сте, че искате да изтриете тема: ""{0}""?"
+This file is not locally available! Would you like to download it from {0} now?,此文件在本地不可用！您想现在从 {0} 下载吗？,Този файл не е локално достъпен! Искате ли да го изтеглите от {0} сега?
+You are not logged in to Dropbox. To access Dropbox files you will be redirected to your browser for sign-in in to Dropbox! Would you like to sign-in now?,您尚未登录 Dropbox。要访问 Dropbox 文件，将在浏览器中进行登录。现在要登录吗？,Не сте влезли в Dropbox. За достъп до Dropbox файлове ще бъдете пренасочени към браузъра за вход в Dropbox! Искате ли да влезете сега?
+This file is not fully downloaded. Would you like to enable automatic streaming for OneDrive on-demand files?,此文件尚未完全下载。您想为 OneDrive 按需文件启用自动流式传输吗？,Този файл не е напълно изтеглен. Искате ли да активирате автоматичното стриймване за OneDrive файлове?
+Are you sure you want to exit?,确定要退出吗？,"Сигурни ли сте, че искате да излезете?"
+Failed to open media {0}! Would you like to open the next one?,无法打开媒体 {0}！您想打开下一个吗？,Неуспешно отваряне на медия {0}! Искате ли да отворите следващата?
+Are you sure you want to forget this playlist?,您确定要忘记此播放列表吗？,"Сигурни ли сте, че искате да забравите този плейлист?"
+"To give full access rights to drive {0}, please select it in the next folder browse dialog.",要授予对 {0} 驱动器的完全访问权限，请在接下来的文件夹选择对话框中选中它。,"За да дадете пълни права за достъп до диск {0}, моля, изберете го в следващия диалог за избор на папка."
+Windows HDR can be changed only with the HDR Controller app. Currently HDR Controller is not installed! Would you like to be navigated to the installation page now!,Windows HDR 只能通过 HDR Controller 应用更改。目前尚未安装 HDR Controller。要前往其安装页面吗？,Windows HDR може да бъде променен само от HDR Controller приложениети. В момента то не е инсталирано! Желаете ли да отворите инсталационната му страница!
+Dolby Vision Extensions are not installed. Would you like to install them now?,未安装 Dolby Vision 扩展。现在要安装吗？,Dolby Vision разширения не са инсталирани. Искате ли да ги инсталирате сега?
+You are not logged in to OneDrive. To access OneDrive files you will be redirected to your browser for logging in to OneDrive! Would you like to sign-in now?,您尚未登录 OneDrive。要访问 OneDrive 文件，将在浏览器中进行登录。现在要登录吗？,Не сте влезли в OneDrive. За достъп до OneDrive файлове ще бъдете пренасочени към браузъра за вход в OneDrive! Искате ли да влезете сега?
+Cannot open media! Would you like to play next file in the playlist?,无法打开媒体！要播放播放列表中的下一个文件吗？,Не може да се отвори медията! Искате ли да възпроизведете следващия файл в плейлиста?
+Are you sure you want to reset the application?,确定要重置应用吗？,"Сигурни ли сте, че искате да нулирате приложението?"
+Do you want to start playback from {0:D02}:{1:D02}:{2:D02},是否从 {0:D02}:{1:D02}:{2:D02} 开始播放,Искате ли да стартирате възпроизвеждането от {0:D02}:{1:D02}:{2:D02}
+"Are you sure you want to unpin ""{0}""? The folder will no longer be accessible through the video player's file explorer!",确定要取消固定“{0}”吗？该文件夹将不再能通过视频播放器的文件浏览器访问。,"Сигурни ли сте, че искате да откачите ""{0}""? Папката вече няма да бъде достъпна през файловия експлорър на видео плейъра!"
+This device cannot play video in the background!,此设备无法在后台播放视频！,Това устройство не може да възпроизвежда видео на заден план!
+Save,保存,Запази
+Save as,另存为,Запази като
+Add keywords,添加关键字,Добави ключови думи
+Add new theme,添加新主题,Добави нова тема
+Always enter expanded view on media playback,播放媒体时始终进入扩展视图,Винаги влизай в разширен изглед при възпроизвеждане на медия
+Dedicated settings button in player controls,在播放器控制中显示专用设置按钮,Специален бутон за настройки в контролите на плейъра
+Delete theme,删除主题,Изтрий тема
+Show skip chapters button for keywords,为关键字章节显示跳过按钮,Покажи бутон за пропускане на глави за ключови думи
+File manager background color:,文件管理器背景颜色：,Цвят на фона на файловия мениджър:
+File manager text color:,文件管理器文字颜色：,Цвят на текста на файловия мениджър:
+File manager theme mode:,文件管理器主题模式：,Режим на тема на файловия мениджър:
+Load image previews for chapters,加载章节图像预览,Зареди прегледи на изображения за глави
+Main theme mode:,主主题模式：,Основен режим на тема:
+Media controls color:,媒体控制颜色：,Цвят на медийните контроли:
+Name:,名称：,Име:
+Never show skip chapter button for chapters containing the following keywords:,从不为包含以下关键字的章节显示跳过按钮：,"Никога не показвай бутон за пропускане на глава за глави, съдържащи следните ключови думи:"
+ОК,确定,ОК
+On-screen clock background type:,屏幕时钟背景类型：,Тип фон на часовника на екрана:
+Playlist background color:,播放列表背景颜色：,Цвят на фона на плейлиста:
+Playlist text color:,播放列表文字颜色：,Цвят на текста на плейлиста:
+Preferred start view:,最近文件颜色：,Предпочитан начален изглед:
+Recent files color:,最近文件颜色：,Цвят на последните файлове:
+Save theme,保存主题,Запази тема
+Settings color:,设置颜色：,Цвят на настройките:
+Show chapters button when found in file,在检测到章节时显示章节按钮,"Показвай бутон за глави, когато са намерени във файла"
+Show next file button in last chapter in file,在文件的最后一章显示“下一个文件”按钮,Показвай бутон за следващ файл в последната глава във файла
+Show on-screen clock,显示屏幕时钟,Показвай часовник на екрана
+Show skip chapter button for first chapter in file,为文件中的第一章显示跳过按钮,Показвай бутон за пропускане на глава за първата глава във файла
+Show skip chapter button for chapters containing the following keywords:,为包含以下关键字的章节显示跳过按钮：,"Показвай бутон за пропускане на глава за глави, съдържащи следните ключови думи:"
+Theme:,主题：,Тема:
+Theme will be applied on the next app start-up,主题将在下次启动应用时生效,Темата ще бъде приложена при следващото стартиране на приложението
+Title bar background color:,标题栏背景颜色：,Цвят на фона на заглавната лента:
+Title bar text color:,标题栏文字颜色：,Цвят на текста на заглавната лента:
+Use reveal focus mode,使用焦点显现模式,Използвай режим на разкриване на фокуса
+Window background color:,窗口背景颜色：,Цвят на фона на прозореца:
+Window text color:,窗口文字颜色：,Цвят на текста на прозореца:
+Delay before activating next mouse hover select on same button,在同一按钮上再次触发悬停选择前的延迟,Забавяне преди активиране на следващ избор при задържане на курсора върху същия бутон
+Delay seconds before activating mouse hover select,鼠标悬停选择的激活延迟（秒）,Секунди забавяне преди активиране на избор при задържане на курсора
+Disable HDR when minimized,最小化时禁用 HDR,Изключи HDR при минимизиране
+Display language,显示语言,Език на интерфейса
+Allow interface locking,启用界面锁定,Позволи заключване на интерфейса
+HDR activation mode,HDR 激活模式,Режим на активиране на HDR
+HDR Controller integration,HDR Controller 集成,HDR Controller интеграция
+Mouse hover select - allows triggering media buttons by hovering,鼠标悬停选择——允许通过悬停触发媒体按钮,Избор при задържане на курсора - позволява активиране на медийни бутони при задържане на курсора
+Multi-Window mode,多窗口模式,Режим на множество прозорци
+Open file through 'Open with' always in new window,通过“打开方式”打开文件时始终使用新窗口,Отваряне на файл чрез 'Отвори с' винаги в нов прозорец
+Seek image preview for local media files,为本地媒体文件显示预览图,Преглед на изображения при превъртане за локални медийни файлове
+Seek image preview for network streams or cloud files,为网络流或云端文件显示预览图,Преглед на изображения при превъртане за мрежови потоци или облачни файлове
+Show Picture-in-Picture button,显示画中画按钮,Показвай бутон Картина в картина
+Show repeat controls (A-B),显示重复控制（A‑B）,Показвай контроли за повторение (A-B)
+Show 'Rewind to 0:00:00' button,显示“回到 0:00:00”按钮,Показвай бутон 'Превърти до 0:00:00'
+Swipe right/left for seeking,左右滑动快进/快退,Плъзнете наляво/надясно за превъртане
+Swipe up/down for volume change,上下滑动调节音量,Плъзнете нагоре/надолу за промяна на силата на звука
+Tap to play/pause,轻触播放/暂停,Докоснете за възпроизвеждане/пауза
+Tap to play/pause when screen locked,在屏幕锁定时轻触播放/暂停,Докоснете за възпроизвеждане/пауза когато екранът е заключен
+Use system layout scaling (200%),使用系统布局缩放（200%）,Използвай системно мащабиране на оформлението (200%)
+Stop,停止,Спри
+Yes,是,Да
+Username,用户名,Потребителско име
+Wrong username or password!,用户名或密码错误！,Грешно потребителско име или парола!
+Brightness ,亮度,Яркост 
+Color saturation,色彩饱和度,Наситеност на цвета
+Color temperature,色温,Температура на цвета
+Color tint,色调,Оттенък на цвета
+Contrast ,对比度,Контраст 
+Enable video effects(applied from next frame),启用视频效果（从下一帧开始生效）,Активирай видео ефекти (прилага се от следващия кадър)
+Sharpness ,锐度,Острота 
+Sharpness threshold ,锐度阈值,Праг на острота 
+Adaptive rewind,自适应倒带,Адаптивно превъртане назад
+Allow D3D11-based post-processing enhancements—such as upscaling and RTX HDR when using software decoding.,允许基于D3D11的后处理增强功能，例如在使用软件解码时的升频和RTX HDR。,Разреши D3D11-базирани подобрения на пост-обработката - като увеличаване и RTX HDR при използване на софтуерно декодиране.
+Allow Dolby Vision decoding,允许Dolby Vision解码,Разреши Dolby Vision декодиране
+Allow lyuv video output,允许lyuv视频输出,Разреши lyuv видео изход
+Allow manual Dolby Vision profile selection,允许手动选择Dolby Vision配置文件,Разреши ръчен избор на Dolby Vision профил
+"Allow offloading D3D11 post-processing enhancements (upscaling, RTX HDR) to a separate GPU. Requires a fast CPU for cross-GPU data transfer.",允许将D3D11后处理增强功能(升频、RTX HDR)卸载到单独的GPU。需要快速CPU进行跨GPU数据传输。,"Разреши прехвърляне на D3D11 подобрения на пост-обработката (увеличаване, RTX HDR) на отделен GPU. Изисква бърз CPU за трансфер на данни между GPU."
+Auto-hide duration,自动隐藏持续时间,Продължителност на автоматичното скриване
+Auto-hide media controls,自动隐藏媒体控件,Автоматично скриване на медийните контроли
+Av1 codec,Av1 编解码器,Av1 кодек
+Background media playback,后台媒体播放,Фоново медийно възпроизвеждане
+Compact audio controls,紧凑音频控件,Компактни аудио контроли
+Compact video controls in fullscreen,全屏时紧凑视频控件,Компактни видео контроли на цял екран
+Current GPU for hw decoding:,当前用于硬件解码的GPU:,Текущ GPU за хардуерно декодиране:
+Disable passthrough during background audio playback,后台音频播放期间禁用直通,Деактивирай passthrough по време на фоново аудио възпроизвеждане
+Display mode refresh rate should match frame rate,显示模式刷新率应与帧率匹配,Честотата на опресняване на дисплея трябва да съвпада с честотата на кадрите
+Dolby Vision extensions,Dolby Vision 扩展,Dolby Vision разширения
+Dolby Vision Tone Mapping in HDR Mode,HDR模式下的Dolby Vision色调映射,Dolby Vision тонално картографиране в HDR режим
+Enable customization of settings for broadcast-standard audio loudness normalization.,启用广播标准音频响度标准化设置的自定义。,Активирай персонализация на настройките за нормализация на силата на аудио звука по стандарт за излъчване.
+Enable customization of settings for dynamic audio loudness normalization.,启用动态音频响度标准化设置的自定义。,Активирай персонализация на настройките за динамична нормализация на силата на аудио звука.
+Energy media player,Energy media player,Energy media player
+Energy media player for XBOX,Energy media player for XBOX,Energy media player за XBOX
+Energy Media Player for XBOX integration,Energy Media Player for XBOX集成,Energy Media Player за XBOX интеграция
+Hardware decoding method:,硬件解码方法:,Метод на хардуерно декодиране:
+Hevc codec(paid),Hevc 编解码器（付费）,Hevc кодек (платен)
+MPEG-2 codec,MPEG-2 编解码器,MPEG-2 кодек
+Match video color range to display when playing SDR media,播放 SDR 媒体时将视频色彩范围匹配到显示器,Съответствие на цветовия диапазон за SDR видео
+Media buffer seconds,媒体缓冲秒数,Секунди на медиен буфер
+Min rewind seconds,最小倒带秒数,Минимални секунди за превъртане назад
+Network Stream Buffer (seconds),网络流缓冲时间（秒,Време за буфер при мрежови потоци (секунди)
+Passthrough AAC,AAC直通,Passthrough AAC
+Passthrough DTS,DTS直通,Passthrough DTS
+Passthrough Dolby Digital,Dolby Digital直通,Passthrough Dolby Digital
+Passthrough Dolby TrueHD,Dolby TrueHD直通,Passthrough Dolby TrueHD
+Passthrough MP3,MP3直通,Passthrough MP3
+Preferred Dolby Vision refresh rate:,首选Dolby Vision刷新率:,Предпочитана Dolby Vision честота на опресняване:
+Preferred HDR refresh rate:,首选HDR刷新率:,Предпочитана HDR честота на опресняване:
+Preferred SDR refresh rate:,首选SDR刷新率:,Предпочитана SDR честота на опресняване:
+Preferred audio language:,首选音频语言:,Предпочитан аудио език:
+Required codec extensions(free) for Dolby Vision decoding:,Dolby Vision解码所需的编解码器扩展(免费):,Необходими кодекови разширения (безплатни) за Dolby Vision декодиране:
+Required codec extensions(free) for using Microsoft decoders:,使用Microsoft解码器所需的编解码器扩展(免费):,Необходими кодекови разширения (безплатни) за използване на Microsoft декодери:
+Reset playback rate when opening new media,打开新媒体时重置播放速率,Нулиране на скоростта на възпроизвеждане при отваряне на нови медии
+Rewind seconds,倒带秒数,Секунди на превъртане назад
+Rewind video by percent of video duration,按视频时长百分比倒带,Превъртане на видео с процент от продължителността на видеото
+SDR Tone Mapping in HDR Mode,HDR模式下的SDR色调映射,SDR тонално картографиране в HDR режим
+"This app does not support background media playback! If you need background media playback, you can use the non-Xbox specific version of Energy Media Player.",此应用不支持后台媒体播放！如果您需要后台媒体播放，可以使用非Xbox专用版本的Energy Media Player。,"Това приложение не поддържа фоново възпроизвеждане на медии! Ако имате нужда от фоново възпроизвеждане на медии, можете да използвате не-Xbox специфичната версия на Energy Media Player."
+Use Microsoft hardware decoders,使用Microsoft硬件解码器,Използвай Microsoft хардуерни декодери
+Use NVIDIA RTX HDR,使用NVIDIA RTX HDR,Използвай NVIDIA RTX HDR
+Use file paging for software decoding,对软件解码使用文件分页,Използвай файлово страниране за софтуерно декодиране
+Use hardware acceleration,使用硬件加速,Използвай хардуерно ускорение
+VP9 codec,VP9 编解码器,VP9 кодек
+Video upscale mode:,视频升频模式:,Режим на увеличаване на видео:
+Video upscaling method:,视频升频方法:,Метод за увеличаване на видео:
+"When UHD, HDR, or Dolby Vision media is detected, prompt the user to play it in Energy Media Player for Xbox.",检测到UHD、HDR或Dolby Vision媒体时，提示用户在Energy Media Player for Xbox中播放。,"Когато се открие UHD, HDR или Dolby Vision медия, подканете потребителя да я възпроизведе в Energy Media Player за Xbox."
+seconds,秒,секунди
