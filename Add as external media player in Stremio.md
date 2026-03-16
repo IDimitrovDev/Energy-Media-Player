@@ -1,46 +1,89 @@
-# 📺 Add Energy Media Player (EMP) as an External Player in Stremio
+# 📺 Add Energy Media Player (EMP) as an External Player in Stremio  
+Supports **Stremio v4 (server.js method)** and **Stremio v5 (M3U playlist method)**
 
-Easily modify Stremio’s configuration to enable playback with Energy Media Player or Energy Media Player for Windows.
-
----
-
-## 🧰 Prerequisites
-
-Ensure your version of **Energy Media Player** or **Energy Media Player for Windows** is **≥ 1.0.281**.
+This guide explains how to integrate **Energy Media Player** or **Energy Media Player for Windows** with both Stremio versions.  
+Stremio v4 uses **direct external player definitions** in `server.js`, while Stremio v5 uses **M3U playlists only**.
 
 ---
 
-## ⚙️ Step-by-Step Setup
+# 🧰 Prerequisites
 
-### 1️⃣ Create a Shortcut to EMP’s Execution Alias
-
-Choose a folder where the shortcut will live, allowing Stremio to launch EMP correctly.
-
-- Right-click inside the target folder → choose **New > Shortcut**
-- Use one of the following paths:
-
-  - **For Energy Media Player:**
-    ```text
-    %LOCALAPPDATA%\Microsoft\WindowsApps\EnergyPlayer.exe
-    ```
-
-  - **For Energy Media Player for Windows:**
-    ```text
-    %LOCALAPPDATA%\Microsoft\WindowsApps\EnergyPlayerForWindows.exe
-    ```
-
-- Name the shortcut **with a `.exe` suffix**, e.g., `EnergyPlayer.exe`
-- Click **Finish**
+- **Energy Media Player** or **Energy Media Player for Windows** version **≥ 1.0.281**
+- Windows 10 or Windows 11
 
 ---
 
-### 2️⃣ Locate the Stremio Installation Directory
+# 🟦 Stremio v5 — External Player via M3U Playlists (Recommended)
 
-- Open the **Start Menu**
-- Type `Stremio`
-- **Right-click** the app → choose **Open file location**
-- If this opens a shortcut, **right-click** it again → select **Open file location** once more
-- You are now in the folder containing `server.js`
+Stremio v5 **no longer supports editing `server.js`**.  
+External players now work **exclusively through M3U playlist export**.
+
+Stremio generates an `.m3u` file → Windows opens it → EMP plays it.
+
+---
+
+## 1️⃣ Configure Stremio v5 to Use M3U External Player Mode
+
+1. Open **Stremio v5**.  
+2. Go to **Settings**.  
+3. Scroll to **Player → Advanced**.  
+4. Set **Play in external player** to **M3U playlist**.
+
+This is the *only* external player mode in v5.
+---
+
+## 2️⃣ Play Videos in EMP from Stremio v5
+
+1. Start any video in Stremio.  
+2. Stremio will notify for stream opened in external player and download a `m3u` playlist
+3. Open the m3u playlist with EMP → EMP launches → playback begins.
+---
+
+## 3️⃣ Localhost Streaming Notes
+
+If Stremio streams via local HTTP, EMP must be allowed to access `localhost`.
+
+Follow the existing EMP guides:
+- Enable localhost streaming (EMP)
+- Enable localhost streaming (EMP for Windows)
+
+If connections drop:
+- Disable  
+  **Settings → General → Limit network connections response to 20s**
+
+---
+
+# 🟩 Stremio v4 — External Player via `server.js` (Legacy Method)
+
+Stremio v4 allows direct external player definitions inside `server.js`.  
+This section preserves the original workflow for users still on v4.
+
+---
+
+## 1️⃣ Create a Shortcut to EMP’s Execution Alias
+
+Create a `.lnk` shortcut pointing to:
+
+- **Energy Media Player**
+  ```
+  %LOCALAPPDATA%\Microsoft\WindowsApps\EnergyPlayer.exe
+  ```
+
+- **Energy Media Player for Windows**
+  ```
+  %LOCALAPPDATA%\Microsoft\WindowsApps\EnergyPlayerForWindows.exe
+  ```
+
+Name the shortcut with a `.exe` suffix, e.g. `EnergyPlayer.exe`.
+
+---
+
+## 2️⃣ Locate the Stremio Installation Directory
+
+1. Open Start Menu → type **Stremio**.  
+2. Right‑click → **Open file location**.  
+3. If it opens a shortcut, right‑click again → **Open file location**.  
+4. You should now see `server.js`.
 
 ---
 
@@ -54,7 +97,7 @@ Choose a folder where the shortcut will live, allowing Stremio to launch EMP cor
 
 ---
 
-### 4️⃣ Add EMP Configuration
+## 4️⃣ Add EMP Configuration
 
 #### 🔍 Search for:
 ```js
@@ -138,16 +181,10 @@ devices.groups.external = [], Object.keys(players).forEach(function(el) {
 
 ---
 
-### 6️⃣ Troubleshooting Playback Issues
+## 6️⃣ Troubleshooting (v4)
 
-If the media doesn’t play:
-- Ensure **localhost loopback** is enabled
-
-📎 Helpful guides:
-- [Enable local streaming for Energy Media Player](https://github.com/IDimitrovDev/Energy-Media-Player/blob/master/Enable%20localhost%20streaming%20-%20Energy%20Media%20Player.md)
-- [Enable local streaming for Energy Media Player for Windows](https://github.com/IDimitrovDev/Energy-Media-Player/blob/master/Enable%20localhost%20streaming%20-%20Energy%20Media%20Player%20for%20Windows.md)
-
-💡 If connections drop often, confirm that this setting is **disabled** in EMP:  
-`Settings > General > Limit network connections response to 20s`
+If playback fails:
+- Ensure localhost loopback is enabled  
+- Disable the 20‑second network limit in EMP if streams drop
 
 ---
